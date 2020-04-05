@@ -1,0 +1,60 @@
+Rank 	County name 	Pop/mile2 	Pop/km2
+1 	New York County, New York 	69,468 	26,822
+2 	Kings County, New York 	35,369 	13,656
+3 	Bronx County, New York 	32,903 	12,704
+4 	Queens County, New York 	20,554 	7,936
+5 	City and County of San Francisco, California 	17,179 	6,633
+6 	Hudson County, New Jersey 	13,732 	5,302
+7 	Suffolk County, Massachusetts 	12,417 	4,794
+8 	Philadelphia County, Pennsylvania 	11,379 	4,394
+9 	Washington, District of Columbia 	9,857 	3,806
+10 	Alexandria, Virginia 	9,314 	3,596
+11 	San Juan Municipality, Puerto Rico 	8,262 	3,190
+12 	Richmond County, New York 	8,030 	3,101
+13 	Arlington County, Virginia 	7,994 	3,086
+14 	City of Baltimore, Maryland 	7,672 	2,962
+15 	Essex County, New Jersey 	6,212 	2,398
+16 	Falls Church, Virginia 	6,170 	2,382
+17 	Cataño Municipality, Puerto Rico 	5,809 	2,243
+18 	Manassas Park, Virginia 	5,633 	2,175
+19 	Cook County, Illinois 	5,495 	2,122
+20 	Union County, New Jersey 	5,216 	2,014
+21 	City of Saint Louis, Missouri 	5,157 	1,991
+22 	Nassau County, New York 	4,705 	1,817
+23 	Bayamón Municipality, Puerto Rico 	4,695 	1,813
+24 	Norfolk, Virginia 	4,486 	1,732
+25 	Charlottesville, Virginia 	4,242 	1,638
+26 	Milwaukee County, Wisconsin 	3,926 	1,516
+27 	Denver County, Colorado 	3,923 	1,515
+28 	Carolina Municipality, Puerto Rico 	3,900 	1,506
+29 	Bergen County, New Jersey 	3,884 	1,500
+30 	Toa Baja Municipality, Puerto Rico 	3,856 	1,489
+31 	Manassas, Virginia 	3,828 	1,478
+32 	Orange County, California 	3,808 	1,470
+33 	Fairfax City, Virginia 	3,617 	1,396
+34 	Trujillo Alto Municipality, Puerto Rico 	3,604 	1,392
+35 	Guaynabo Municipality, Puerto Rico 	3,551 	1,371
+36 	Richmond, Virginia 	3,415 	1,318
+37 	Pinellas County, Florida 	3,348 	1,292
+38 	Ramsey County, Minnesota 	3,342 	1,290
+39 	Delaware County, Pennsylvania 	3,039 	1,173
+40 	Wayne County, Michigan 	2,974 	1,148
+41 	Portsmouth, Virginia 	2,839 	1,096
+42 	Winchester, Virginia 	2,838 	1,096
+43 	Lexington, Virginia 	2,820 	1,089
+44 	Harrisonburg, Virginia 	2,808 	1,084
+45 	Cuyahoga County, Ohio 	2,800 	1,081
+46 	DuPage County, Illinois 	2,800 	1,081
+47 	Fairfax County, Virginia 	2,767 	1,068
+48 	Toa Alta Municipality, Puerto Rico 	2,742 	1,058
+49 	Dallas County, Texas 	2,718 	1,049
+50 	Passaic County, New Jersey 	2,715 	1,048
+51 	Hampton, Virginia 	2,674 	1,032
+52 	Newport News, Virginia 	2,634 	1,017
+53 	Middlesex County, New Jersey 	2,622 	1,012
+54 	DeKalb County, Georgia 	2,586 	998
+55 	Caguas Municipality, Puerto Rico 	2,439 	942
+56 	Los Angeles County, California 	2,420 	934
+57 	Harris County, Texas 	2,402 	928
+58 	Fredericksburg, Virginia 	2,326 	898
+59 	Camden County, New Jersey 	2,322 	896 
