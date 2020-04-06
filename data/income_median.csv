@@ -1,0 +1,3146 @@
+state,county,fips,inc_med
+Alabama,Autauga,1001,51463
+Alabama,Baldwin,1003,48918
+Alabama,Barbour,1005,32537
+Alabama,Bibb,1007,41236
+Alabama,Blount,1009,45406
+Alabama,Bullock,1011,26209
+Alabama,Butler,1013,31938
+Alabama,Calhoun,1015,38382
+Alabama,Chambers,1017,32433
+Alabama,Cherokee,1019,40240
+Alabama,Chilton,1021,38966
+Alabama,Choctaw,1023,30749
+Alabama,Clarke,1025,27080
+Alabama,Clay,1027,37652
+Alabama,Cleburne,1029,33742
+Alabama,Coffee,1031,41973
+Alabama,Colbert,1033,39366
+Alabama,Conecuh,1035,27216
+Alabama,Coosa,1037,33595
+Alabama,Covington,1039,33278
+Alabama,Crenshaw,1041,31058
+Alabama,Cullman,1043,38394
+Alabama,Dale,1045,42225
+Alabama,Dallas,1047,26442
+Alabama,DeKalb,1049,33634
+Alabama,Elmore,1051,52971
+Alabama,Escambia,1053,32321
+Alabama,Etowah,1055,36378
+Alabama,Fayette,1057,35754
+Alabama,Franklin,1059,33380
+Alabama,Geneva,1061,31055
+Alabama,Greene,1063,22352
+Alabama,Hale,1065,29841
+Alabama,Henry,1067,35792
+Alabama,Houston,1069,41096
+Alabama,Jackson,1071,35073
+Alabama,Jefferson,1073,44718
+Alabama,Lamar,1075,31094
+Alabama,Lauderdale,1077,37691
+Alabama,Lawrence,1079,41472
+Alabama,Lee,1081,38588
+Alabama,Limestone,1083,44997
+Alabama,Lowndes,1085,30270
+Alabama,Macon,1087,26305
+Alabama,Madison,1089,54979
+Alabama,Marengo,1091,30819
+Alabama,Marion,1093,32224
+Alabama,Marshall,1095,37396
+Alabama,Mobile,1097,40476
+Alabama,Monroe,1099,29810
+Alabama,Montgomery,1101,43015
+Alabama,Morgan,1103,42913
+Alabama,Perry,1105,26270
+Alabama,Pickens,1107,27150
+Alabama,Pike,1109,28065
+Alabama,Randolph,1111,35137
+Alabama,Russell,1113,32064
+Alabama,St. Clair,1115,48425
+Alabama,Shelby,1117,67534
+Alabama,Sumter,1119,20994
+Alabama,Talladega,1121,35865
+Alabama,Tallapoosa,1123,36637
+Alabama,Tuscaloosa,1125,39579
+Alabama,Walker,1127,36708
+Alabama,Washington,1129,34738
+Alabama,Wilcox,1131,22006
+Alabama,Winston,1133,29818
+Alaska,Aleutians East,2013,56250
+Alaska,Aleutians West,2016,72989
+Alaska,Anchorage,2020,70151
+Alaska,Bethel,2050,53120
+Alaska,Bristol Bay,2060,62500
+Alaska,Denali,2068,76250
+Alaska,Dillingham,2070,60466
+Alaska,Fairbanks North Star,2090,65121
+Alaska,Haines,2100,44284
+Alaska,Hoonah-Angoon,2105,43208
+Alaska,Juneau,2110,76437
+Alaska,Kenai Peninsula,2122,55966
+Alaska,Ketchikan Gateway,2130,57500
+Alaska,Kodiak Island,2150,59655
+Alaska,Lake and Peninsula,2164,41458
+Alaska,Matanuska-Susitna,2170,66052
+Alaska,Nome,2180,55766
+Alaska,North Slope,2185,66556
+Alaska,Northwest Arctic,2188,57885
+Alaska,Petersburg,2195,61115
+Alaska,Prince of Wales-Hyder,2198,45889
+Alaska,Sitka,2220,58895
+Alaska,Skagway,2230,71295
+Alaska,Southeast Fairbanks,2240,59407
+Alaska,Valdez-Cordova,2261,55952
+Alaska,Wade Hampton,2270,36712
+Alaska,Wrangell,2275,49508
+Alaska,Yakutat,2282,66250
+Alaska,Yukon-Koyukuk,2290,33716
+Arizona,Apache,4001,28378
+Arizona,Cochise,4003,43304
+Arizona,Coconino,4005,48259
+Arizona,Gila,4007,36930
+Arizona,Graham,4009,40889
+Arizona,Greenlee,4011,45476
+Arizona,La Paz,4012,31640
+Arizona,Maricopa,4013,55223
+Arizona,Mohave,4015,40157
+Arizona,Navajo,4017,38197
+Arizona,Pima,4019,45885
+Arizona,Pinal,4021,49301
+Arizona,Santa Cruz,4023,37204
+Arizona,Yavapai,4025,43965
+Arizona,Yuma,4027,38854
+Arkansas,Arkansas,5001,36341
+Arkansas,Ashley,5003,33007
+Arkansas,Baxter,5005,34534
+Arkansas,Benton,5007,50377
+Arkansas,Boone,5009,36839
+Arkansas,Bradley,5011,26207
+Arkansas,Calhoun,5013,32148
+Arkansas,Carroll,5015,32978
+Arkansas,Chicot,5017,20543
+Arkansas,Clark,5019,31409
+Arkansas,Clay,5021,29282
+Arkansas,Cleburne,5023,36405
+Arkansas,Cleveland,5025,35063
+Arkansas,Columbia,5027,35258
+Arkansas,Conway,5029,33554
+Arkansas,Craighead,5031,39431
+Arkansas,Crawford,5033,38942
+Arkansas,Crittenden,5035,32323
+Arkansas,Cross,5037,36036
+Arkansas,Dallas,5039,28233
+Arkansas,Desha,5041,27072
+Arkansas,Drew,5043,32061
+Arkansas,Faulkner,5045,44600
+Arkansas,Franklin,5047,30991
+Arkansas,Fulton,5049,30771
+Arkansas,Garland,5051,36454
+Arkansas,Grant,5053,51238
+Arkansas,Greene,5055,38012
+Arkansas,Hempstead,5057,35518
+Arkansas,Hot Spring,5059,36095
+Arkansas,Howard,5061,33180
+Arkansas,Independence,5063,34798
+Arkansas,Izard,5065,32269
+Arkansas,Jackson,5067,28680
+Arkansas,Jefferson,5069,35265
+Arkansas,Johnson,5071,30953
+Arkansas,Lafayette,5073,26491
+Arkansas,Lawrence,5075,29119
+Arkansas,Lee,5077,26283
+Arkansas,Lincoln,5079,34876
+Arkansas,Little River,5081,32884
+Arkansas,Logan,5083,35716
+Arkansas,Lonoke,5085,50295
+Arkansas,Madison,5087,36667
+Arkansas,Marion,5089,31772
+Arkansas,Miller,5091,39090
+Arkansas,Mississippi,5093,32940
+Arkansas,Monroe,5095,29607
+Arkansas,Montgomery,5097,36095
+Arkansas,Nevada,5099,32969
+Arkansas,Newton,5101,28166
+Arkansas,Ouachita,5103,30167
+Arkansas,Perry,5105,44921
+Arkansas,Phillips,5107,26336
+Arkansas,Pike,5109,33024
+Arkansas,Poinsett,5111,31894
+Arkansas,Polk,5113,33274
+Arkansas,Pope,5115,38511
+Arkansas,Prairie,5117,32176
+Arkansas,Pulaski,5119,44370
+Arkansas,Randolph,5121,28427
+Arkansas,St. Francis,5123,27016
+Arkansas,Saline,5125,51082
+Arkansas,Scott,5127,33969
+Arkansas,Searcy,5129,27071
+Arkansas,Sebastian,5131,39131
+Arkansas,Sevier,5133,34090
+Arkansas,Sharp,5135,29589
+Arkansas,Stone,5137,27167
+Arkansas,Union,5139,35732
+Arkansas,Van Buren,5141,30531
+Arkansas,Washington,5143,43317
+Arkansas,White,5145,38417
+Arkansas,Woodruff,5147,27880
+Arkansas,Yell,5149,36398
+California,Alameda,6001,68863
+California,Alpine,6003,54605
+California,Amador,6005,57347
+California,Butte,6007,42002
+California,Calaveras,6009,57676
+California,Colusa,6011,47150
+California,Contra Costa,6013,77838
+California,Del Norte,6015,38408
+California,El Dorado,6017,70765
+California,Fresno,6019,46230
+California,Glenn,6021,40973
+California,Humboldt,6023,39124
+California,Imperial,6025,37595
+California,Inyo,6027,44952
+California,Kern,6029,46216
+California,Kings,6031,46595
+California,Lake,6033,41182
+California,Lassen,6035,48653
+California,Los Angeles,6037,54828
+California,Madera,6039,46083
+California,Marin,6041,87728
+California,Mariposa,6043,47808
+California,Mendocino,6045,43404
+California,Merced,6047,43848
+California,Modoc,6049,34007
+California,Mono,6051,51970
+California,Monterey,6053,59693
+California,Napa,6055,68416
+California,Nevada,6057,58186
+California,Orange,6059,73738
+California,Placer,6061,73550
+California,Plumas,6063,44727
+California,Riverside,6065,58155
+California,Sacramento,6067,56799
+California,San Benito,6069,68567
+California,San Bernardino,6071,55461
+California,San Diego,6073,62901
+California,San Francisco,6075,70040
+California,San Joaquin,6077,54540
+California,San Luis Obispo,6079,55555
+California,San Mateo,6081,84426
+California,Santa Barbara,6083,59350
+California,Santa Clara,6085,85569
+California,Santa Cruz,6087,64349
+California,Shasta,6089,44755
+California,Sierra,6091,53750
+California,Siskiyou,6093,37938
+California,Solano,6095,67920
+California,Sonoma,6097,63848
+California,Stanislaus,6099,51529
+California,Sutter,6101,52155
+California,Tehama,6103,36949
+California,Trinity,6105,35551
+California,Tulare,6107,43164
+California,Tuolumne,6109,48354
+California,Ventura,6111,74828
+California,Yolo,6113,56232
+California,Yuba,6115,46410
+Colorado,Adams,8001,55258
+Colorado,Alamosa,8003,32362
+Colorado,Arapahoe,8005,58968
+Colorado,Archuleta,8007,54909
+Colorado,Baca,8009,33504
+Colorado,Bent,8011,35647
+Colorado,Boulder,8013,65040
+Colorado,Broomfield,8014,76240
+Colorado,Chaffee,8015,42808
+Colorado,Cheyenne,8017,46313
+Colorado,Clear Creek,8019,62823
+Colorado,Conejos,8021,33141
+Colorado,Costilla,8023,23041
+Colorado,Crowley,8025,35494
+Colorado,Custer,8027,44713
+Colorado,Delta,8029,40658
+Colorado,Denver,8031,45438
+Colorado,Dolores,8033,41961
+Colorado,Douglas,8035,99522
+Colorado,Eagle,8037,69139
+Colorado,Elbert,8039,74345
+Colorado,El Paso,8041,56570
+Colorado,Fremont,8043,37852
+Colorado,Garfield,8045,64837
+Colorado,Gilpin,8047,55455
+Colorado,Grand,8049,58981
+Colorado,Gunnison,8051,44577
+Colorado,Hinsdale,8053,53750
+Colorado,Huerfano,8055,31136
+Colorado,Jackson,8057,32788
+Colorado,Jefferson,8059,65891
+Colorado,Kiowa,8061,42422
+Colorado,Kit Carson,8063,40754
+Colorado,Lake,8065,39147
+Colorado,La Plata,8067,53713
+Colorado,Larimer,8069,54755
+Colorado,Las Animas,8071,37587
+Colorado,Lincoln,8073,39572
+Colorado,Logan,8075,39992
+Colorado,Mesa,8077,50611
+Colorado,Mineral,8079,52153
+Colorado,Moffat,8081,53723
+Colorado,Montezuma,8083,43697
+Colorado,Montrose,8085,44922
+Colorado,Morgan,8087,43317
+Colorado,Otero,8089,32149
+Colorado,Ouray,8091,58836
+Colorado,Park,8093,60186
+Colorado,Phillips,8095,39830
+Colorado,Pitkin,8097,62318
+Colorado,Prowers,8099,35166
+Colorado,Pueblo,8101,40805
+Colorado,Rio Blanco,8103,54812
+Colorado,Rio Grande,8105,39683
+Colorado,Routt,8107,64046
+Colorado,Saguache,8109,29523
+Colorado,San Juan,8111,44336
+Colorado,San Miguel,8113,60457
+Colorado,Sedgwick,8115,37792
+Colorado,Summit,8117,67329
+Colorado,Teller,8119,56686
+Colorado,Washington,8121,38818
+Colorado,Weld,8123,55795
+Colorado,Yuma,8125,39945
+Connecticut,Fairfield,9001,81114
+Connecticut,Hartford,9003,62829
+Connecticut,Litchfield,9005,69561
+Connecticut,Middlesex,9007,74965
+Connecticut,New Haven,9009,61234
+Connecticut,New London,9011,65120
+Connecticut,Tolland,9013,76498
+Connecticut,Windham,9015,57427
+Delaware,Kent,10001,52016
+Delaware,New Castle,10003,63160
+Delaware,Sussex,10005,50537
+Florida,Alachua,12001,39345
+Florida,Baker,12003,46315
+Florida,Bay,12005,46240
+Florida,Bradford,12007,40519
+Florida,Brevard,12009,49114
+Florida,Broward,12011,51731
+Florida,Calhoun,12013,29642
+Florida,Charlotte,12015,44639
+Florida,Citrus,12017,37807
+Florida,Clay,12019,60352
+Florida,Collier,12021,58133
+Florida,Columbia,12023,39078
+Florida,DeSoto,12027,37226
+Florida,Dixie,12029,31426
+Florida,Duval,12031,49135
+Florida,Escambia,12033,43148
+Florida,Flagler,12035,47573
+Florida,Franklin,12037,38436
+Florida,Gadsden,12039,35423
+Florida,Gilchrist,12041,41048
+Florida,Glades,12043,39260
+Florida,Gulf,12045,38574
+Florida,Hamilton,12047,35632
+Florida,Hardee,12049,38865
+Florida,Hendry,12051,37354
+Florida,Hernando,12053,42457
+Florida,Highlands,12055,33902
+Florida,Hillsborough,12057,49594
+Florida,Holmes,12059,33868
+Florida,Indian River,12061,46550
+Florida,Jackson,12063,36442
+Florida,Jefferson,12065,44011
+Florida,Lafayette,12067,46551
+Florida,Lake,12069,44837
+Florida,Lee,12071,50362
+Florida,Leon,12073,42889
+Florida,Levy,12075,35294
+Florida,Liberty,12077,39583
+Florida,Madison,12079,36682
+Florida,Manatee,12081,47935
+Florida,Marion,12083,40306
+Florida,Martin,12085,52734
+Florida,Miami-Dade,12086,42969
+Florida,Monroe,12087,54946
+Florida,Nassau,12089,57907
+Florida,Okaloosa,12091,53741
+Florida,Okeechobee,12093,38643
+Florida,Orange,12095,50352
+Florida,Osceola,12097,46315
+Florida,Palm Beach,12099,53538
+Florida,Pasco,12101,43690
+Florida,Pinellas,12103,44838
+Florida,Polk,12105,44043
+Florida,Putnam,12107,33711
+Florida,St. Johns,12109,63630
+Florida,St. Lucie,12111,46656
+Florida,Santa Rosa,12113,54250
+Florida,Sarasota,12115,49013
+Florida,Seminole,12117,58313
+Florida,Sumter,12119,41010
+Florida,Suwannee,12121,34157
+Florida,Taylor,12123,35900
+Florida,Union,12125,40694
+Florida,Volusia,12127,43326
+Florida,Wakulla,12129,52353
+Florida,Walton,12131,46159
+Florida,Washington,12133,35090
+Georgia,Appling,13001,33537
+Georgia,Atkinson,13003,33548
+Georgia,Bacon,13005,31661
+Georgia,Baker,13007,30403
+Georgia,Baldwin,13009,38273
+Georgia,Banks,13011,41039
+Georgia,Barrow,13013,48285
+Georgia,Bartow,13015,50075
+Georgia,Ben Hill,13017,30078
+Georgia,Berrien,13019,32029
+Georgia,Bibb,13021,38207
+Georgia,Bleckley,13023,37542
+Georgia,Brantley,13025,39569
+Georgia,Brooks,13027,40840
+Georgia,Bryan,13029,63858
+Georgia,Bulloch,13031,34723
+Georgia,Burke,13033,31482
+Georgia,Butts,13035,52760
+Georgia,Calhoun,13037,27723
+Georgia,Camden,13039,48967
+Georgia,Candler,13043,35951
+Georgia,Carroll,13045,44693
+Georgia,Catoosa,13047,45295
+Georgia,Charlton,13049,39734
+Georgia,Chatham,13051,44464
+Georgia,Chattahoochee,13053,48035
+Georgia,Chattooga,13055,31550
+Georgia,Cherokee,13057,66248
+Georgia,Clarke,13059,33364
+Georgia,Clay,13061,26769
+Georgia,Clayton,13063,44308
+Georgia,Clinch,13065,32410
+Georgia,Cobb,13067,66515
+Georgia,Coffee,13069,33119
+Georgia,Colquitt,13071,31707
+Georgia,Columbia,13073,67115
+Georgia,Cook,13075,31521
+Georgia,Coweta,13077,61854
+Georgia,Crawford,13079,35979
+Georgia,Crisp,13081,27545
+Georgia,Dade,13083,40081
+Georgia,Dawson,13085,52658
+Georgia,Decatur,13087,32769
+Georgia,DeKalb,13089,51973
+Georgia,Dodge,13091,31334
+Georgia,Dooly,13093,30172
+Georgia,Dougherty,13095,34597
+Georgia,Douglas,13097,55512
+Georgia,Early,13099,28063
+Georgia,Echols,13101,35230
+Georgia,Effingham,13103,53883
+Georgia,Elbert,13105,32213
+Georgia,Emanuel,13107,27924
+Georgia,Evans,13109,37473
+Georgia,Fannin,13111,36785
+Georgia,Fayette,13113,81206
+Georgia,Floyd,13115,41952
+Georgia,Forsyth,13117,88040
+Georgia,Franklin,13119,34725
+Georgia,Fulton,13121,58573
+Georgia,Gilmer,13123,34325
+Georgia,Glascock,13125,34036
+Georgia,Glynn,13127,48785
+Georgia,Gordon,13129,40283
+Georgia,Grady,13131,34025
+Georgia,Greene,13133,38973
+Georgia,Gwinnett,13135,65136
+Georgia,Habersham,13137,40412
+Georgia,Hall,13139,51222
+Georgia,Hancock,13141,26786
+Georgia,Haralson,13143,38290
+Georgia,Harris,13145,63368
+Georgia,Hart,13147,38132
+Georgia,Heard,13149,40640
+Georgia,Henry,13151,65002
+Georgia,Houston,13153,54037
+Georgia,Irwin,13155,37328
+Georgia,Jackson,13157,48114
+Georgia,Jasper,13159,42242
+Georgia,Jeff Davis,13161,29932
+Georgia,Jefferson,13163,29036
+Georgia,Jenkins,13165,26652
+Georgia,Johnson,13167,25789
+Georgia,Jones,13169,49337
+Georgia,Lamar,13171,35835
+Georgia,Lanier,13173,34497
+Georgia,Laurens,13175,38247
+Georgia,Lee,13177,60456
+Georgia,Liberty,13179,40911
+Georgia,Lincoln,13181,35350
+Georgia,Long,13183,41943
+Georgia,Lowndes,13185,39200
+Georgia,Lumpkin,13187,41589
+Georgia,McDuffie,13189,34897
+Georgia,McIntosh,13191,37629
+Georgia,Macon,13193,28382
+Georgia,Madison,13195,40106
+Georgia,Marion,13197,32432
+Georgia,Meriwether,13199,37305
+Georgia,Miller,13201,33125
+Georgia,Mitchell,13205,36344
+Georgia,Monroe,13207,50579
+Georgia,Montgomery,13209,33970
+Georgia,Morgan,13211,44845
+Georgia,Murray,13213,38348
+Georgia,Muscogee,13215,40549
+Georgia,Newton,13217,52743
+Georgia,Oconee,13219,69959
+Georgia,Oglethorpe,13221,44465
+Georgia,Paulding,13223,60138
+Georgia,Peach,13225,43391
+Georgia,Pickens,13227,50145
+Georgia,Pierce,13229,35137
+Georgia,Pike,13231,52579
+Georgia,Polk,13233,39968
+Georgia,Pulaski,13235,32053
+Georgia,Putnam,13237,41297
+Georgia,Quitman,13239,30985
+Georgia,Rabun,13241,34308
+Georgia,Randolph,13243,28193
+Georgia,Richmond,13245,37339
+Georgia,Rockdale,13247,55681
+Georgia,Schley,13249,38722
+Georgia,Screven,13251,32943
+Georgia,Seminole,13253,35364
+Georgia,Spalding,13255,41319
+Georgia,Stephens,13257,34309
+Georgia,Stewart,13259,33772
+Georgia,Sumter,13261,32245
+Georgia,Talbot,13263,30523
+Georgia,Taliaferro,13265,21116
+Georgia,Tattnall,13267,36028
+Georgia,Taylor,13269,23458
+Georgia,Telfair,13271,24609
+Georgia,Terrell,13273,26723
+Georgia,Thomas,13275,36036
+Georgia,Tift,13277,37121
+Georgia,Toombs,13279,30203
+Georgia,Towns,13281,39908
+Georgia,Treutlen,13283,27627
+Georgia,Troup,13285,39788
+Georgia,Turner,13287,30414
+Georgia,Twiggs,13289,29593
+Georgia,Union,13291,38100
+Georgia,Upson,13293,33634
+Georgia,Walker,13295,38646
+Georgia,Walton,13297,52160
+Georgia,Ware,13299,33545
+Georgia,Warren,13301,32892
+Georgia,Washington,13303,31178
+Georgia,Wayne,13305,38457
+Georgia,Webster,13307,25030
+Georgia,Wheeler,13309,35625
+Georgia,White,13311,42295
+Georgia,Whitfield,13313,42783
+Georgia,Wilcox,13315,28863
+Georgia,Wilkes,13317,32074
+Georgia,Wilkinson,13319,36353
+Georgia,Worth,13321,36707
+Hawaii,Hawaii,15001,55645
+Hawaii,Honolulu,15003,67066
+Hawaii,Kalawao,15005,52813
+Hawaii,Kauai,15007,63317
+Hawaii,Maui,15009,63659
+Idaho,Ada,16001,55888
+Idaho,Adams,16003,37255
+Idaho,Bannock,16005,44162
+Idaho,Bear Lake,16007,44263
+Idaho,Benewah,16009,38198
+Idaho,Bingham,16011,44380
+Idaho,Blaine,16013,56601
+Idaho,Boise,16015,49341
+Idaho,Bonner,16017,42736
+Idaho,Bonneville,16019,49823
+Idaho,Boundary,16021,35473
+Idaho,Butte,16023,34229
+Idaho,Camas,16025,50114
+Idaho,Canyon,16027,42912
+Idaho,Caribou,16029,43918
+Idaho,Cassia,16031,39167
+Idaho,Clark,16033,38405
+Idaho,Clearwater,16035,41875
+Idaho,Custer,16037,41958
+Idaho,Elmore,16039,44015
+Idaho,Franklin,16041,44753
+Idaho,Fremont,16043,43486
+Idaho,Gem,16045,41847
+Idaho,Gooding,16047,37732
+Idaho,Idaho,16049,34456
+Idaho,Jefferson,16051,50181
+Idaho,Jerome,16053,40322
+Idaho,Kootenai,16055,45446
+Idaho,Latah,16057,36448
+Idaho,Lemhi,16059,38750
+Idaho,Lewis,16061,36000
+Idaho,Lincoln,16063,45903
+Idaho,Madison,16065,35511
+Idaho,Minidoka,16067,40344
+Idaho,Nez Perce,16069,42919
+Idaho,Oneida,16071,43912
+Idaho,Owyhee,16073,31660
+Idaho,Payette,16075,44480
+Idaho,Power,16077,37455
+Idaho,Shoshone,16079,35357
+Idaho,Teton,16081,51125
+Idaho,Twin Falls,16083,41577
+Idaho,Valley,16085,52523
+Idaho,Washington,16087,35897
+Illinois,Adams,17001,43460
+Illinois,Alexander,17003,28983
+Illinois,Bond,17005,47240
+Illinois,Boone,17007,59202
+Illinois,Brown,17009,33472
+Illinois,Bureau,17011,45329
+Illinois,Calhoun,17013,44016
+Illinois,Carroll,17015,42969
+Illinois,Cass,17017,41083
+Illinois,Champaign,17019,42561
+Illinois,Christian,17021,41195
+Illinois,Clark,17023,43364
+Illinois,Clay,17025,37660
+Illinois,Clinton,17027,54313
+Illinois,Coles,17029,35102
+Illinois,Cook,17031,53903
+Illinois,Crawford,17033,40006
+Illinois,Cumberland,17035,42215
+Illinois,DeKalb,17037,53291
+Illinois,De Witt,17039,46623
+Illinois,Douglas,17041,47431
+Illinois,DuPage,17043,76355
+Illinois,Edgar,17045,38624
+Illinois,Edwards,17047,40741
+Illinois,Effingham,17049,46658
+Illinois,Fayette,17051,39615
+Illinois,Ford,17053,46141
+Illinois,Franklin,17055,33711
+Illinois,Fulton,17057,40681
+Illinois,Gallatin,17059,33954
+Illinois,Greene,17061,39846
+Illinois,Grundy,17063,64455
+Illinois,Hamilton,17065,34014
+Illinois,Hancock,17067,42732
+Illinois,Hardin,17069,32083
+Illinois,Henderson,17071,39536
+Illinois,Henry,17073,48618
+Illinois,Iroquois,17075,46762
+Illinois,Jackson,17077,29493
+Illinois,Jasper,17079,45252
+Illinois,Jefferson,17081,40343
+Illinois,Jersey,17083,51553
+Illinois,Jo Daviess,17085,52514
+Illinois,Johnson,17087,45934
+Illinois,Kane,17089,68327
+Illinois,Kankakee,17091,50911
+Illinois,Kendall,17093,79504
+Illinois,Knox,17095,38535
+Illinois,Lake,17097,78423
+Illinois,LaSalle,17099,50270
+Illinois,Lawrence,17101,38085
+Illinois,Lee,17103,50483
+Illinois,Livingston,17105,49799
+Illinois,Logan,17107,47644
+Illinois,McDonough,17109,32337
+Illinois,McHenry,17111,77314
+Illinois,McLean,17113,55812
+Illinois,Macon,17115,44107
+Illinois,Macoupin,17117,46857
+Illinois,Madison,17119,50877
+Illinois,Marion,17121,37446
+Illinois,Marshall,17123,47484
+Illinois,Mason,17125,42687
+Illinois,Massac,17127,38237
+Illinois,Menard,17129,56821
+Illinois,Mercer,17131,51200
+Illinois,Monroe,17133,66850
+Illinois,Montgomery,17135,39514
+Illinois,Morgan,17137,44539
+Illinois,Moultrie,17139,45385
+Illinois,Ogle,17141,55479
+Illinois,Peoria,17143,47702
+Illinois,Perry,17145,39031
+Illinois,Piatt,17147,55603
+Illinois,Pike,17149,40648
+Illinois,Pope,17151,39153
+Illinois,Pulaski,17153,28775
+Illinois,Putnam,17155,54528
+Illinois,Randolph,17157,43395
+Illinois,Richland,17159,39068
+Illinois,Rock Island,17161,45585
+Illinois,St. Clair,17163,47029
+Illinois,Saline,17165,33341
+Illinois,Sangamon,17167,50733
+Illinois,Schuyler,17169,42425
+Illinois,Scott,17171,48611
+Illinois,Shelby,17173,45340
+Illinois,Stark,17175,47795
+Illinois,Stephenson,17177,43561
+Illinois,Tazewell,17179,54271
+Illinois,Union,17181,38028
+Illinois,Vermilion,17183,39249
+Illinois,Wabash,17185,44738
+Illinois,Warren,17187,38433
+Illinois,Washington,17189,52527
+Illinois,Wayne,17191,37128
+Illinois,White,17193,40070
+Illinois,Whiteside,17195,43719
+Illinois,Will,17197,74118
+Illinois,Williamson,17199,39286
+Illinois,Winnebago,17201,46882
+Illinois,Woodford,17203,63917
+Indiana,Adams,18001,43208
+Indiana,Allen,18003,47901
+Indiana,Bartholomew,18005,52545
+Indiana,Benton,18007,45603
+Indiana,Blackford,18009,40372
+Indiana,Boone,18011,67322
+Indiana,Brown,18013,51904
+Indiana,Carroll,18015,47030
+Indiana,Cass,18017,43006
+Indiana,Clark,18019,47011
+Indiana,Clay,18021,43943
+Indiana,Clinton,18023,47453
+Indiana,Crawford,18025,34883
+Indiana,Daviess,18027,42562
+Indiana,Dearborn,18029,55949
+Indiana,Decatur,18031,45265
+Indiana,DeKalb,18033,45792
+Indiana,Delaware,18035,37386
+Indiana,Dubois,18037,53286
+Indiana,Elkhart,18039,47840
+Indiana,Fayette,18041,38060
+Indiana,Floyd,18043,52242
+Indiana,Fountain,18045,43431
+Indiana,Franklin,18047,50937
+Indiana,Fulton,18049,41483
+Indiana,Gibson,18051,45426
+Indiana,Grant,18053,38797
+Indiana,Greene,18055,40252
+Indiana,Hamilton,18057,82088
+Indiana,Hancock,18059,60878
+Indiana,Harrison,18061,50544
+Indiana,Hendricks,18063,65246
+Indiana,Henry,18065,41816
+Indiana,Howard,18067,46901
+Indiana,Huntington,18069,45490
+Indiana,Jackson,18071,42525
+Indiana,Jasper,18073,53369
+Indiana,Jay,18075,38026
+Indiana,Jefferson,18077,40704
+Indiana,Jennings,18079,43490
+Indiana,Johnson,18081,59973
+Indiana,Knox,18083,39215
+Indiana,Kosciusko,18085,49897
+Indiana,LaGrange,18087,49324
+Indiana,Lake,18089,47962
+Indiana,LaPorte,18091,47090
+Indiana,Lawrence,18093,40328
+Indiana,Madison,18095,43372
+Indiana,Marion,18097,43858
+Indiana,Marshall,18099,50786
+Indiana,Martin,18101,42257
+Indiana,Miami,18103,38872
+Indiana,Monroe,18105,38124
+Indiana,Montgomery,18107,48572
+Indiana,Morgan,18109,54926
+Indiana,Newton,18111,53028
+Indiana,Noble,18113,46744
+Indiana,Ohio,18115,49661
+Indiana,Orange,18117,35667
+Indiana,Owen,18119,42465
+Indiana,Parke,18121,37962
+Indiana,Perry,18123,43918
+Indiana,Pike,18125,39685
+Indiana,Porter,18127,60797
+Indiana,Posey,18129,57775
+Indiana,Pulaski,18131,46141
+Indiana,Putnam,18133,49821
+Indiana,Randolph,18135,40993
+Indiana,Ripley,18137,47397
+Indiana,Rush,18139,45661
+Indiana,St. Joseph,18141,44579
+Indiana,Scott,18143,38372
+Indiana,Shelby,18145,51448
+Indiana,Spencer,18147,51120
+Indiana,Starke,18149,38729
+Indiana,Steuben,18151,46818
+Indiana,Sullivan,18153,41292
+Indiana,Switzerland,18155,44246
+Indiana,Tippecanoe,18157,41842
+Indiana,Tipton,18159,50556
+Indiana,Union,18161,42995
+Indiana,Vanderburgh,18163,42579
+Indiana,Vermillion,18165,42451
+Indiana,Vigo,18167,37509
+Indiana,Wabash,18169,43198
+Indiana,Warren,18171,48432
+Indiana,Warrick,18173,60553
+Indiana,Washington,18175,38123
+Indiana,Wayne,18177,40956
+Indiana,Wells,18179,47161
+Indiana,White,18181,43979
+Indiana,Whitley,18183,51376
+Iowa,Adair,19001,43487
+Iowa,Adams,19003,40833
+Iowa,Allamakee,19005,43904
+Iowa,Appanoose,19007,32943
+Iowa,Audubon,19009,42072
+Iowa,Benton,19011,54210
+Iowa,Black Hawk,19013,42959
+Iowa,Boone,19015,48302
+Iowa,Bremer,19017,53842
+Iowa,Buchanan,19019,50360
+Iowa,Buena Vista,19021,41938
+Iowa,Butler,19023,46143
+Iowa,Calhoun,19025,40080
+Iowa,Carroll,19027,46034
+Iowa,Cass,19029,40437
+Iowa,Cedar,19031,52197
+Iowa,Cerro Gordo,19033,44770
+Iowa,Cherokee,19035,44055
+Iowa,Chickasaw,19037,41838
+Iowa,Clarke,19039,45684
+Iowa,Clay,19041,43757
+Iowa,Clayton,19043,45603
+Iowa,Clinton,19045,44787
+Iowa,Crawford,19047,43502
+Iowa,Dallas,19049,67146
+Iowa,Davis,19051,45954
+Iowa,Decatur,19053,33247
+Iowa,Delaware,19055,48152
+Iowa,Des Moines,19057,42193
+Iowa,Dickinson,19059,49680
+Iowa,Dubuque,19061,48012
+Iowa,Emmet,19063,43098
+Iowa,Fayette,19065,39043
+Iowa,Floyd,19067,38673
+Iowa,Franklin,19069,44813
+Iowa,Fremont,19071,45197
+Iowa,Greene,19073,42354
+Iowa,Grundy,19075,53663
+Iowa,Guthrie,19077,48574
+Iowa,Hamilton,19079,48084
+Iowa,Hancock,19081,48634
+Iowa,Hardin,19083,42397
+Iowa,Harrison,19085,48187
+Iowa,Henry,19087,42136
+Iowa,Howard,19089,44684
+Iowa,Humboldt,19091,46420
+Iowa,Ida,19093,43171
+Iowa,Iowa,19095,55496
+Iowa,Jackson,19097,43946
+Iowa,Jasper,19099,47432
+Iowa,Jefferson,19101,39383
+Iowa,Johnson,19103,49413
+Iowa,Jones,19105,47017
+Iowa,Keokuk,19107,42196
+Iowa,Kossuth,19109,46176
+Iowa,Lee,19111,41700
+Iowa,Linn,19113,52642
+Iowa,Louisa,19115,47948
+Iowa,Lucas,19117,43606
+Iowa,Lyon,19119,49838
+Iowa,Madison,19121,57690
+Iowa,Mahaska,19123,44713
+Iowa,Marion,19125,52053
+Iowa,Marshall,19127,45870
+Iowa,Mills,19129,56450
+Iowa,Mitchell,19131,48397
+Iowa,Monona,19133,38670
+Iowa,Monroe,19135,39632
+Iowa,Montgomery,19137,37917
+Iowa,Muscatine,19139,50188
+Iowa,O'Brien,19141,43024
+Iowa,Osceola,19143,38691
+Iowa,Page,19145,41213
+Iowa,Palo Alto,19147,39555
+Iowa,Plymouth,19149,54226
+Iowa,Pocahontas,19151,41119
+Iowa,Polk,19153,55915
+Iowa,Pottawattamie,19155,49192
+Iowa,Poweshiek,19157,50202
+Iowa,Ringgold,19159,42367
+Iowa,Sac,19161,40613
+Iowa,Scott,19163,50656
+Iowa,Shelby,19165,43420
+Iowa,Sioux,19167,49272
+Iowa,Story,19169,45594
+Iowa,Tama,19171,45691
+Iowa,Taylor,19173,37987
+Iowa,Union,19175,42229
+Iowa,Van Buren,19177,42797
+Iowa,Wapello,19179,38619
+Iowa,Warren,19181,60609
+Iowa,Washington,19183,50201
+Iowa,Wayne,19185,35332
+Iowa,Webster,19187,40772
+Iowa,Winnebago,19189,39694
+Iowa,Winneshiek,19191,49645
+Iowa,Woodbury,19193,44656
+Iowa,Worth,19195,49871
+Iowa,Wright,19197,42859
+Kansas,Allen,20001,39328
+Kansas,Anderson,20003,40212
+Kansas,Atchison,20005,45146
+Kansas,Barber,20007,38497
+Kansas,Barton,20009,42103
+Kansas,Bourbon,20011,36651
+Kansas,Brown,20013,37066
+Kansas,Butler,20015,56077
+Kansas,Chase,20017,41719
+Kansas,Chautauqua,20019,35433
+Kansas,Cherokee,20021,36521
+Kansas,Cheyenne,20023,30250
+Kansas,Clark,20025,35701
+Kansas,Clay,20027,39044
+Kansas,Cloud,20029,33517
+Kansas,Coffey,20031,47420
+Kansas,Comanche,20033,40781
+Kansas,Cowley,20035,40229
+Kansas,Crawford,20037,34181
+Kansas,Decatur,20039,34268
+Kansas,Dickinson,20041,45198
+Kansas,Doniphan,20043,40238
+Kansas,Douglas,20045,44835
+Kansas,Edwards,20047,37682
+Kansas,Elk,20049,31361
+Kansas,Ellis,20051,41704
+Kansas,Ellsworth,20053,43418
+Kansas,Finney,20055,48819
+Kansas,Ford,20057,45442
+Kansas,Franklin,20059,47767
+Kansas,Geary,20061,43890
+Kansas,Gove,20063,38701
+Kansas,Graham,20065,40677
+Kansas,Grant,20067,55951
+Kansas,Gray,20069,48654
+Kansas,Greeley,20071,47156
+Kansas,Greenwood,20073,36424
+Kansas,Hamilton,20075,34478
+Kansas,Harper,20077,38529
+Kansas,Harvey,20079,47344
+Kansas,Haskell,20081,52649
+Kansas,Hodgeman,20083,41078
+Kansas,Jackson,20085,51650
+Kansas,Jefferson,20087,56593
+Kansas,Jewell,20089,37500
+Kansas,Johnson,20091,73487
+Kansas,Kearny,20093,40965
+Kansas,Kingman,20095,44032
+Kansas,Kiowa,20097,38750
+Kansas,Labette,20099,37674
+Kansas,Lane,20101,40265
+Kansas,Leavenworth,20103,59515
+Kansas,Lincoln,20105,40123
+Kansas,Linn,20107,44363
+Kansas,Logan,20109,35121
+Kansas,Lyon,20111,35949
+Kansas,McPherson,20113,50501
+Kansas,Marion,20115,42706
+Kansas,Marshall,20117,42328
+Kansas,Meade,20119,45292
+Kansas,Miami,20121,59888
+Kansas,Mitchell,20123,43537
+Kansas,Montgomery,20125,37927
+Kansas,Morris,20127,39020
+Kansas,Morton,20129,41011
+Kansas,Nemaha,20131,46265
+Kansas,Neosho,20133,36226
+Kansas,Ness,20135,42500
+Kansas,Norton,20137,34840
+Kansas,Osage,20139,47500
+Kansas,Osborne,20141,33521
+Kansas,Ottawa,20143,47350
+Kansas,Pawnee,20145,38725
+Kansas,Phillips,20147,43750
+Kansas,Pottawatomie,20149,51716
+Kansas,Pratt,20151,43545
+Kansas,Rawlins,20153,34444
+Kansas,Reno,20155,41365
+Kansas,Republic,20157,36510
+Kansas,Rice,20159,43592
+Kansas,Riley,20161,37225
+Kansas,Rooks,20163,38013
+Kansas,Rush,20165,38263
+Kansas,Russell,20167,37000
+Kansas,Saline,20169,43850
+Kansas,Scott,20171,57843
+Kansas,Sedgwick,20173,47768
+Kansas,Seward,20175,41290
+Kansas,Shawnee,20177,46955
+Kansas,Sheridan,20179,46520
+Kansas,Sherman,20181,40325
+Kansas,Smith,20183,38347
+Kansas,Stafford,20185,37093
+Kansas,Stanton,20187,46875
+Kansas,Stevens,20189,49966
+Kansas,Sumner,20191,48848
+Kansas,Thomas,20193,41541
+Kansas,Trego,20195,37463
+Kansas,Wabaunsee,20197,53414
+Kansas,Wallace,20199,38560
+Kansas,Washington,20201,37184
+Kansas,Wichita,20203,40450
+Kansas,Wilson,20205,37985
+Kansas,Woodson,20207,29681
+Kansas,Wyandotte,20209,37998
+Kentucky,Adair,21001,29247
+Kentucky,Allen,21003,33929
+Kentucky,Anderson,21005,51164
+Kentucky,Ballard,21007,41276
+Kentucky,Barren,21009,36919
+Kentucky,Bath,21011,29054
+Kentucky,Bell,21013,22559
+Kentucky,Boone,21015,65964
+Kentucky,Bourbon,21017,38301
+Kentucky,Boyd,21019,39309
+Kentucky,Boyle,21021,39113
+Kentucky,Bracken,21023,36967
+Kentucky,Breathitt,21025,19329
+Kentucky,Breckinridge,21027,37694
+Kentucky,Bullitt,21029,52594
+Kentucky,Butler,21031,33063
+Kentucky,Caldwell,21033,36929
+Kentucky,Calloway,21035,36632
+Kentucky,Campbell,21037,51890
+Kentucky,Carlisle,21039,33468
+Kentucky,Carroll,21041,44087
+Kentucky,Carter,21043,33232
+Kentucky,Casey,21045,26079
+Kentucky,Christian,21047,36760
+Kentucky,Clark,21049,45171
+Kentucky,Clay,21051,22986
+Kentucky,Clinton,21053,23187
+Kentucky,Crittenden,21055,34554
+Kentucky,Cumberland,21057,27802
+Kentucky,Daviess,21059,42268
+Kentucky,Edmonson,21061,34678
+Kentucky,Elliott,21063,23426
+Kentucky,Estill,21065,26390
+Kentucky,Fayette,21067,46874
+Kentucky,Fleming,21069,30352
+Kentucky,Floyd,21071,28479
+Kentucky,Franklin,21073,48273
+Kentucky,Fulton,21075,28973
+Kentucky,Gallatin,21077,40700
+Kentucky,Garrard,21079,37112
+Kentucky,Grant,21081,42405
+Kentucky,Graves,21083,35107
+Kentucky,Grayson,21085,33091
+Kentucky,Green,21087,38333
+Kentucky,Greenup,21089,40110
+Kentucky,Hancock,21091,44891
+Kentucky,Hardin,21093,46098
+Kentucky,Harlan,21095,27101
+Kentucky,Harrison,21097,39928
+Kentucky,Hart,21099,29743
+Kentucky,Henderson,21101,41315
+Kentucky,Henry,21103,43491
+Kentucky,Hickman,21105,30932
+Kentucky,Hopkins,21107,39096
+Kentucky,Jackson,21109,26360
+Kentucky,Jefferson,21111,45440
+Kentucky,Jessamine,21113,48577
+Kentucky,Johnson,21115,32403
+Kentucky,Kenton,21117,53219
+Kentucky,Knott,21119,28231
+Kentucky,Knox,21121,21195
+Kentucky,Larue,21123,38970
+Kentucky,Laurel,21125,35330
+Kentucky,Lawrence,21127,27002
+Kentucky,Lee,21129,19104
+Kentucky,Leslie,21131,24848
+Kentucky,Letcher,21133,28383
+Kentucky,Lewis,21135,25885
+Kentucky,Lincoln,21137,33531
+Kentucky,Livingston,21139,40913
+Kentucky,Logan,21141,37376
+Kentucky,Lyon,21143,39934
+Kentucky,McCracken,21145,40847
+Kentucky,McCreary,21147,22441
+Kentucky,McLean,21149,39857
+Kentucky,Madison,21151,39854
+Kentucky,Magoffin,21153,19556
+Kentucky,Marion,21155,37239
+Kentucky,Marshall,21157,41892
+Kentucky,Martin,21159,22692
+Kentucky,Mason,21161,37107
+Kentucky,Meade,21163,42868
+Kentucky,Menifee,21165,29224
+Kentucky,Mercer,21167,43969
+Kentucky,Metcalfe,21169,35011
+Kentucky,Monroe,21171,28871
+Kentucky,Montgomery,21173,34315
+Kentucky,Morgan,21175,31322
+Kentucky,Muhlenberg,21177,35617
+Kentucky,Nelson,21179,47012
+Kentucky,Nicholas,21181,36389
+Kentucky,Ohio,21183,35587
+Kentucky,Oldham,21185,78460
+Kentucky,Owen,21187,43481
+Kentucky,Owsley,21189,18869
+Kentucky,Pendleton,21191,44343
+Kentucky,Perry,21193,31151
+Kentucky,Pike,21195,32271
+Kentucky,Powell,21197,30442
+Kentucky,Pulaski,21199,32434
+Kentucky,Robertson,21201,30647
+Kentucky,Rockcastle,21203,25643
+Kentucky,Rowan,21205,30803
+Kentucky,Russell,21207,29153
+Kentucky,Scott,21209,59764
+Kentucky,Shelby,21211,55748
+Kentucky,Simpson,21213,40720
+Kentucky,Spencer,21215,57611
+Kentucky,Taylor,21217,33911
+Kentucky,Todd,21219,40177
+Kentucky,Trigg,21221,41250
+Kentucky,Trimble,21223,46759
+Kentucky,Union,21225,39133
+Kentucky,Warren,21227,44060
+Kentucky,Washington,21229,42995
+Kentucky,Wayne,21231,26513
+Kentucky,Webster,21233,37519
+Kentucky,Whitley,21235,27189
+Kentucky,Wolfe,21237,20960
+Kentucky,Woodford,21239,56478
+Louisiana,Acadia,22001,33882
+Louisiana,Allen,22003,36463
+Louisiana,Ascension,22005,60874
+Louisiana,Assumption,22007,43003
+Louisiana,Avoyelles,22009,31123
+Louisiana,Beauregard,22011,43441
+Louisiana,Bienville,22013,31741
+Louisiana,Bossier,22015,49815
+Louisiana,Caddo,22017,36536
+Louisiana,Calcasieu,22019,42938
+Louisiana,Caldwell,22021,39156
+Louisiana,Cameron,22023,57786
+Louisiana,Catahoula,22025,33913
+Louisiana,Claiborne,22027,29345
+Louisiana,Concordia,22029,26968
+Louisiana,De Soto,22031,36867
+Louisiana,East Baton Rouge,22033,44215
+Louisiana,East Carroll,22035,21994
+Louisiana,East Feliciana,22037,36707
+Louisiana,Evangeline,22039,33445
+Louisiana,Franklin,22041,31059
+Louisiana,Grant,22043,39328
+Louisiana,Iberia,22045,40803
+Louisiana,Iberville,22047,40774
+Louisiana,Jackson,22049,37536
+Louisiana,Jefferson,22051,48213
+Louisiana,Jefferson Davis,22053,39756
+Louisiana,Lafayette,22055,46526
+Louisiana,Lafourche,22057,46196
+Louisiana,La Salle,22059,33307
+Louisiana,Lincoln,22061,31843
+Louisiana,Livingston,22063,52779
+Louisiana,Madison,22065,26021
+Louisiana,Morehouse,22067,31264
+Louisiana,Natchitoches,22069,28411
+Louisiana,Orleans,22071,36258
+Louisiana,Ouachita,22073,38568
+Louisiana,Plaquemines,22075,50610
+Louisiana,Pointe Coupee,22077,37832
+Louisiana,Rapides,22079,39456
+Louisiana,Red River,22081,32242
+Louisiana,Richland,22083,35610
+Louisiana,Sabine,22085,34632
+Louisiana,St. Bernard,22087,38478
+Louisiana,St. Charles,22089,59884
+Louisiana,St. Helena,22091,29124
+Louisiana,St. James,22093,49883
+Louisiana,St. John the Baptist,22095,47574
+Louisiana,St. Landry,22097,28110
+Louisiana,St. Martin,22099,39186
+Louisiana,St. Mary,22101,38269
+Louisiana,St. Tammany,22103,59804
+Louisiana,Tangipahoa,22105,38067
+Louisiana,Tensas,22107,30572
+Louisiana,Terrebonne,22109,47338
+Louisiana,Union,22111,35788
+Louisiana,Vermilion,22113,40785
+Louisiana,Vernon,22115,40030
+Louisiana,Washington,22117,30340
+Louisiana,Webster,22119,35145
+Louisiana,West Baton Rouge,22121,46485
+Louisiana,West Carroll,22123,34649
+Louisiana,West Feliciana,22125,43348
+Louisiana,Winn,22127,30514
+Maine,Androscoggin,23001,43714
+Maine,Aroostook,23003,35439
+Maine,Cumberland,23005,54342
+Maine,Franklin,23007,39628
+Maine,Hancock,23009,48899
+Maine,Kennebec,23011,46368
+Maine,Knox,23013,45147
+Maine,Lincoln,23015,48034
+Maine,Oxford,23017,40055
+Maine,Penobscot,23019,42366
+Maine,Piscataquis,23021,33944
+Maine,Sagadahoc,23023,54986
+Maine,Somerset,23025,36210
+Maine,Waldo,23027,41697
+Maine,Washington,23029,34203
+Maine,York,23031,54414
+Maryland,Allegany,24001,36810
+Maryland,Anne Arundel,24003,81824
+Maryland,Baltimore,24005,63348
+Maryland,Calvert,24009,90621
+Maryland,Caroline,24011,55844
+Maryland,Carroll,24013,80743
+Maryland,Cecil,24015,65079
+Maryland,Charles,24017,86141
+Maryland,Dorchester,24019,45095
+Maryland,Frederick,24021,80970
+Maryland,Garrett,24023,43802
+Maryland,Harford,24025,75872
+Maryland,Howard,24027,101003
+Maryland,Kent,24029,48284
+Maryland,Montgomery,24031,92213
+Maryland,Prince George's,24033,70753
+Maryland,Queen Anne's,24035,78615
+Maryland,St. Mary's,24037,75427
+Maryland,Somerset,24039,41615
+Maryland,Talbot,24041,61591
+Maryland,Washington,24043,51962
+Maryland,Wicomico,24045,51352
+Maryland,Worcester,24047,52600
+Maryland,Baltimore city,24510,38738
+Massachusetts,Barnstable,25001,60096
+Massachusetts,Berkshire,25003,49907
+Massachusetts,Bristol,25005,55789
+Massachusetts,Dukes,25007,62472
+Massachusetts,Essex,25009,64280
+Massachusetts,Franklin,25011,52185
+Massachusetts,Hampden,25013,47617
+Massachusetts,Hampshire,25015,57293
+Massachusetts,Middlesex,25017,77004
+Massachusetts,Nantucket,25019,80020
+Massachusetts,Norfolk,25021,80127
+Massachusetts,Plymouth,25023,72904
+Massachusetts,Suffolk,25025,51896
+Massachusetts,Worcester,25027,63720
+Michigan,Alcona,26001,35014
+Michigan,Alger,26003,41234
+Michigan,Allegan,26005,51833
+Michigan,Alpena,26007,36261
+Michigan,Antrim,26009,43167
+Michigan,Arenac,26011,36299
+Michigan,Baraga,26013,40849
+Michigan,Barry,26015,53848
+Michigan,Bay,26017,44844
+Michigan,Benzie,26019,44445
+Michigan,Berrien,26021,42481
+Michigan,Branch,26023,44086
+Michigan,Calhoun,26025,42003
+Michigan,Cass,26027,45263
+Michigan,Charlevoix,26029,48641
+Michigan,Cheboygan,26031,38189
+Michigan,Chippewa,26033,40088
+Michigan,Clare,26035,34957
+Michigan,Clinton,26037,59529
+Michigan,Crawford,26039,37584
+Michigan,Delta,26041,42020
+Michigan,Dickinson,26043,41288
+Michigan,Eaton,26045,54858
+Michigan,Emmet,26047,48773
+Michigan,Genesee,26049,44376
+Michigan,Gladwin,26051,37289
+Michigan,Gogebic,26053,32692
+Michigan,Grand Traverse,26055,50774
+Michigan,Gratiot,26057,41868
+Michigan,Hillsdale,26059,42829
+Michigan,Houghton,26061,31824
+Michigan,Huron,26063,39317
+Michigan,Ingham,26065,45606
+Michigan,Ionia,26067,46712
+Michigan,Iosco,26069,36628
+Michigan,Iron,26071,34083
+Michigan,Isabella,26073,36726
+Michigan,Jackson,26075,47406
+Michigan,Kalamazoo,26077,44553
+Michigan,Kalkaska,26079,39304
+Michigan,Kent,26081,49908
+Michigan,Keweenaw,26083,35977
+Michigan,Lake,26085,30629
+Michigan,Lapeer,26087,56116
+Michigan,Leelanau,26089,56574
+Michigan,Lenawee,26091,50277
+Michigan,Livingston,26093,74210
+Michigan,Luce,26095,36869
+Michigan,Mackinac,26097,39919
+Michigan,Macomb,26099,55466
+Michigan,Manistee,26101,39995
+Michigan,Marquette,26103,43692
+Michigan,Mason,26105,39511
+Michigan,Mecosta,26107,36100
+Michigan,Menominee,26109,41514
+Michigan,Midland,26111,50361
+Michigan,Missaukee,26113,38397
+Michigan,Monroe,26115,56855
+Michigan,Montcalm,26117,41082
+Michigan,Montmorency,26119,34409
+Michigan,Muskegon,26121,41800
+Michigan,Newaygo,26123,43278
+Michigan,Oakland,26125,67292
+Michigan,Oceana,26127,39725
+Michigan,Ogemaw,26129,35081
+Michigan,Ontonagon,26131,34140
+Michigan,Osceola,26133,37326
+Michigan,Oscoda,26135,33028
+Michigan,Otsego,26137,44790
+Michigan,Ottawa,26139,57126
+Michigan,Presque Isle,26141,37536
+Michigan,Roscommon,26143,34276
+Michigan,Saginaw,26145,42244
+Michigan,St. Clair,26147,50648
+Michigan,St. Joseph,26149,43667
+Michigan,Sanilac,26151,40146
+Michigan,Schoolcraft,26153,37906
+Michigan,Shiawassee,26155,46260
+Michigan,Tuscola,26157,42851
+Michigan,Van Buren,26159,43740
+Michigan,Washtenaw,26161,58807
+Michigan,Wayne,26163,42232
+Michigan,Wexford,26165,40232
+Minnesota,Aitkin,27001,39452
+Minnesota,Anoka,27003,69407
+Minnesota,Becker,27005,46142
+Minnesota,Beltrami,27007,43678
+Minnesota,Benton,27009,50071
+Minnesota,Big Stone,27011,39973
+Minnesota,Blue Earth,27013,45902
+Minnesota,Brown,27015,48067
+Minnesota,Carlton,27017,51552
+Minnesota,Carver,27019,78436
+Minnesota,Cass,27021,41501
+Minnesota,Chippewa,27023,42441
+Minnesota,Chisago,27025,65100
+Minnesota,Clay,27027,47806
+Minnesota,Clearwater,27029,37744
+Minnesota,Cook,27031,47933
+Minnesota,Cottonwood,27033,39878
+Minnesota,Crow Wing,27035,44075
+Minnesota,Dakota,27037,73209
+Minnesota,Dodge,27039,62269
+Minnesota,Douglas,27041,44918
+Minnesota,Faribault,27043,40548
+Minnesota,Fillmore,27045,45454
+Minnesota,Freeborn,27047,44018
+Minnesota,Goodhue,27049,55632
+Minnesota,Grant,27051,39975
+Minnesota,Hennepin,27053,61387
+Minnesota,Houston,27055,51945
+Minnesota,Hubbard,27057,43999
+Minnesota,Isanti,27059,57496
+Minnesota,Itasca,27061,43396
+Minnesota,Jackson,27063,41797
+Minnesota,Kanabec,27065,45382
+Minnesota,Kandiyohi,27067,50381
+Minnesota,Kittson,27069,47770
+Minnesota,Koochiching,27071,39088
+Minnesota,Lac qui Parle,27073,44753
+Minnesota,Lake,27075,44433
+Minnesota,Lake of the Woods,27077,44306
+Minnesota,Le Sueur,27079,56489
+Minnesota,Lincoln,27081,41730
+Minnesota,Lyon,27083,45842
+Minnesota,McLeod,27085,56615
+Minnesota,Mahnomen,27087,38409
+Minnesota,Marshall,27089,46316
+Minnesota,Martin,27091,42832
+Minnesota,Meeker,27093,52031
+Minnesota,Mille Lacs,27095,45817
+Minnesota,Morrison,27097,48582
+Minnesota,Mower,27099,45274
+Minnesota,Murray,27101,45260
+Minnesota,Nicollet,27103,55355
+Minnesota,Nobles,27105,42042
+Minnesota,Norman,27107,39709
+Minnesota,Olmsted,27109,64840
+Minnesota,Otter Tail,27111,42821
+Minnesota,Pennington,27113,44015
+Minnesota,Pine,27115,43618
+Minnesota,Pipestone,27117,38357
+Minnesota,Polk,27119,45076
+Minnesota,Pope,27121,47001
+Minnesota,Ramsey,27123,52329
+Minnesota,Red Lake,27125,45833
+Minnesota,Redwood,27127,44034
+Minnesota,Renville,27129,46588
+Minnesota,Rice,27131,57754
+Minnesota,Rock,27133,45826
+Minnesota,Roseau,27135,48974
+Minnesota,St. Louis,27137,44125
+Minnesota,Scott,27139,83503
+Minnesota,Sherburne,27141,71228
+Minnesota,Sibley,27143,50656
+Minnesota,Stearns,27145,51559
+Minnesota,Steele,27147,55810
+Minnesota,Stevens,27149,45049
+Minnesota,Swift,27151,40677
+Minnesota,Todd,27153,42604
+Minnesota,Traverse,27155,38881
+Minnesota,Wabasha,27157,51541
+Minnesota,Wadena,27159,34212
+Minnesota,Waseca,27161,49971
+Minnesota,Washington,27163,78714
+Minnesota,Watonwan,27165,43535
+Minnesota,Wilkin,27167,49327
+Minnesota,Winona,27169,42941
+Minnesota,Wright,27171,67090
+Minnesota,Yellow Medicine,27173,46292
+Mississippi,Adams,28001,28868
+Mississippi,Alcorn,28003,31826
+Mississippi,Amite,28005,27728
+Mississippi,Attala,28007,30096
+Mississippi,Benton,28009,28667
+Mississippi,Bolivar,28011,24920
+Mississippi,Calhoun,28013,27078
+Mississippi,Carroll,28015,28100
+Mississippi,Chickasaw,28017,29581
+Mississippi,Choctaw,28019,30054
+Mississippi,Claiborne,28021,24104
+Mississippi,Clarke,28023,31029
+Mississippi,Clay,28025,30765
+Mississippi,Coahoma,28027,25489
+Mississippi,Copiah,28029,35342
+Mississippi,Covington,28031,30483
+Mississippi,DeSoto,28033,57995
+Mississippi,Forrest,28035,33143
+Mississippi,Franklin,28037,34236
+Mississippi,George,28039,46849
+Mississippi,Greene,28041,38252
+Mississippi,Grenada,28043,31909
+Mississippi,Hancock,28045,44025
+Mississippi,Harrison,28047,44570
+Mississippi,Hinds,28049,38541
+Mississippi,Holmes,28051,21821
+Mississippi,Humphreys,28053,22259
+Mississippi,Issaquena,28055,20250
+Mississippi,Itawamba,28057,37660
+Mississippi,Jackson,28059,47767
+Mississippi,Jasper,28061,29628
+Mississippi,Jefferson,28063,21964
+Mississippi,Jefferson Davis,28065,24679
+Mississippi,Jones,28067,34269
+Mississippi,Kemper,28069,29833
+Mississippi,Lafayette,28071,40202
+Mississippi,Lamar,28073,48328
+Mississippi,Lauderdale,28075,33354
+Mississippi,Lawrence,28077,34643
+Mississippi,Leake,28079,32396
+Mississippi,Lee,28081,37894
+Mississippi,Leflore,28083,20490
+Mississippi,Lincoln,28085,38276
+Mississippi,Lowndes,28087,37314
+Mississippi,Madison,28089,56938
+Mississippi,Marion,28091,30699
+Mississippi,Marshall,28093,31831
+Mississippi,Monroe,28095,33116
+Mississippi,Montgomery,28097,29243
+Mississippi,Neshoba,28099,33445
+Mississippi,Newton,28101,35527
+Mississippi,Noxubee,28103,22974
+Mississippi,Oktibbeha,28105,26449
+Mississippi,Panola,28107,35355
+Mississippi,Pearl River,28109,38458
+Mississippi,Perry,28111,34423
+Mississippi,Pike,28113,29981
+Mississippi,Pontotoc,28115,38909
+Mississippi,Prentiss,28117,29250
+Mississippi,Quitman,28119,24491
+Mississippi,Rankin,28121,53240
+Mississippi,Scott,28123,32114
+Mississippi,Sharkey,28125,29495
+Mississippi,Simpson,28127,34187
+Mississippi,Smith,28129,36762
+Mississippi,Stone,28131,43524
+Mississippi,Sunflower,28133,24333
+Mississippi,Tallahatchie,28135,23557
+Mississippi,Tate,28137,38194
+Mississippi,Tippah,28139,29872
+Mississippi,Tishomingo,28141,29740
+Mississippi,Tunica,28143,29420
+Mississippi,Union,28145,35955
+Mississippi,Walthall,28147,32475
+Mississippi,Warren,28149,38917
+Mississippi,Washington,28151,27588
+Mississippi,Wayne,28153,30375
+Mississippi,Webster,28155,31533
+Mississippi,Wilkinson,28157,25478
+Mississippi,Winston,28159,30406
+Mississippi,Yalobusha,28161,28578
+Mississippi,Yazoo,28163,27404
+Missouri,Adair,29001,30000
+Missouri,Andrew,29003,52330
+Missouri,Atchison,29005,39328
+Missouri,Audrain,29007,39028
+Missouri,Barry,29009,36411
+Missouri,Barton,29011,41124
+Missouri,Bates,29013,39071
+Missouri,Benton,29015,34038
+Missouri,Bollinger,29017,34878
+Missouri,Boone,29019,44787
+Missouri,Buchanan,29021,41366
+Missouri,Butler,29023,33074
+Missouri,Caldwell,29025,37792
+Missouri,Callaway,29027,49425
+Missouri,Camden,29029,43127
+Missouri,Cape Girardeau,29031,43639
+Missouri,Carroll,29033,38360
+Missouri,Carter,29035,24502
+Missouri,Cass,29037,60628
+Missouri,Cedar,29039,33503
+Missouri,Chariton,29041,41233
+Missouri,Christian,29043,50830
+Missouri,Clark,29045,39936
+Missouri,Clay,29047,57797
+Missouri,Clinton,29049,50761
+Missouri,Cole,29051,52385
+Missouri,Cooper,29053,41576
+Missouri,Crawford,29055,34813
+Missouri,Dade,29057,32636
+Missouri,Dallas,29059,34367
+Missouri,Daviess,29061,38640
+Missouri,DeKalb,29063,43302
+Missouri,Dent,29065,34292
+Missouri,Douglas,29067,30675
+Missouri,Dunklin,29069,29124
+Missouri,Franklin,29071,49860
+Missouri,Gasconade,29073,40196
+Missouri,Gentry,29075,35539
+Missouri,Greene,29077,40271
+Missouri,Grundy,29079,35032
+Missouri,Harrison,29081,33598
+Missouri,Henry,29083,36250
+Missouri,Hickory,29085,28685
+Missouri,Holt,29087,39019
+Missouri,Howard,29089,39870
+Missouri,Howell,29091,32145
+Missouri,Iron,29093,29904
+Missouri,Jackson,29095,46516
+Missouri,Jasper,29097,37294
+Missouri,Jefferson,29099,56815
+Missouri,Johnson,29101,43656
+Missouri,Knox,29103,33681
+Missouri,Laclede,29105,35749
+Missouri,Lafayette,29107,47811
+Missouri,Lawrence,29109,38232
+Missouri,Lewis,29111,39344
+Missouri,Lincoln,29113,53295
+Missouri,Linn,29115,36767
+Missouri,Livingston,29117,38462
+Missouri,McDonald,29119,36498
+Missouri,Macon,29121,35578
+Missouri,Madison,29123,32271
+Missouri,Maries,29125,39241
+Missouri,Marion,29127,38530
+Missouri,Mercer,29129,32591
+Missouri,Miller,29131,35732
+Missouri,Mississippi,29133,28966
+Missouri,Moniteau,29135,47329
+Missouri,Monroe,29137,39262
+Missouri,Montgomery,29139,39511
+Missouri,Morgan,29141,36267
+Missouri,New Madrid,29143,32015
+Missouri,Newton,29145,41661
+Missouri,Nodaway,29147,36510
+Missouri,Oregon,29149,24803
+Missouri,Osage,29151,42210
+Missouri,Ozark,29153,33264
+Missouri,Pemiscot,29155,28290
+Missouri,Perry,29157,45863
+Missouri,Pettis,29159,36510
+Missouri,Phelps,29161,37322
+Missouri,Pike,29163,42969
+Missouri,Platte,29165,65383
+Missouri,Polk,29167,36633
+Missouri,Pulaski,29169,42476
+Missouri,Putnam,29171,33992
+Missouri,Ralls,29173,46875
+Missouri,Randolph,29175,34827
+Missouri,Ray,29177,51556
+Missouri,Reynolds,29179,33052
+Missouri,Ripley,29181,29289
+Missouri,St. Charles,29183,70077
+Missouri,St. Clair,29185,33041
+Missouri,Ste. Genevieve,29186,49712
+Missouri,St. Francois,29187,38086
+Missouri,St. Louis,29189,57502
+Missouri,Saline,29195,40556
+Missouri,Schuyler,29197,30683
+Missouri,Scotland,29199,35548
+Missouri,Scott,29201,37132
+Missouri,Shannon,29203,28474
+Missouri,Shelby,29205,33275
+Missouri,Stoddard,29207,33684
+Missouri,Stone,29209,40830
+Missouri,Sullivan,29211,30613
+Missouri,Taney,29213,40103
+Missouri,Texas,29215,30569
+Missouri,Vernon,29217,33161
+Missouri,Warren,29219,49722
+Missouri,Washington,29221,35510
+Missouri,Wayne,29223,28315
+Missouri,Webster,29225,39478
+Missouri,Worth,29227,39479
+Missouri,Wright,29229,27598
+Missouri,St. Louis city,29510,34227
+Montana,Beaverhead,30001,37038
+Montana,Big Horn,30003,34891
+Montana,Blaine,30005,37039
+Montana,Broadwater,30007,42860
+Montana,Carbon,30009,50676
+Montana,Carter,30011,35813
+Montana,Cascade,30013,41964
+Montana,Chouteau,30015,38664
+Montana,Custer,30017,38627
+Montana,Daniels,30019,34300
+Montana,Dawson,30021,47706
+Montana,Deer Lodge,30023,33429
+Montana,Fallon,30025,53889
+Montana,Fergus,30027,36568
+Montana,Flathead,30029,45258
+Montana,Gallatin,30031,49343
+Montana,Garfield,30033,32880
+Montana,Glacier,30035,41009
+Montana,Golden Valley,30037,36029
+Montana,Granite,30039,35247
+Montana,Hill,30041,44833
+Montana,Jefferson,30043,56294
+Montana,Judith Basin,30045,39900
+Montana,Lake,30047,39048
+Montana,Lewis and Clark,30049,50245
+Montana,Liberty,30051,39310
+Montana,Lincoln,30053,32644
+Montana,McCone,30055,40903
+Montana,Madison,30057,42054
+Montana,Meagher,30059,33365
+Montana,Mineral,30061,36820
+Montana,Missoula,30063,41220
+Montana,Musselshell,30065,33000
+Montana,Park,30067,39730
+Montana,Petroleum,30069,38833
+Montana,Phillips,30071,37080
+Montana,Pondera,30073,32790
+Montana,Powder River,30075,39489
+Montana,Powell,30077,40329
+Montana,Prairie,30079,36618
+Montana,Ravalli,30081,42654
+Montana,Richland,30083,49553
+Montana,Roosevelt,30085,34731
+Montana,Rosebud,30087,43269
+Montana,Sanders,30089,31521
+Montana,Sheridan,30091,39091
+Montana,Silver Bow,30093,37324
+Montana,Stillwater,30095,55401
+Montana,Sweet Grass,30097,43016
+Montana,Teton,30099,39360
+Montana,Toole,30101,41322
+Montana,Treasure,30103,43553
+Montana,Valley,30105,38559
+Montana,Wheatland,30107,30375
+Montana,Wibaux,30109,32154
+Montana,Yellowstone,30111,46967
+Montana,Yellowstone National Park,30113,0
+Nebraska,Adams,31001,44524
+Nebraska,Antelope,31003,35883
+Nebraska,Arthur,31005,44750
+Nebraska,Banner,31007,32833
+Nebraska,Blaine,31009,35694
+Nebraska,Boone,31011,43891
+Nebraska,Box Butte,31013,45000
+Nebraska,Boyd,31015,33060
+Nebraska,Brown,31017,26676
+Nebraska,Buffalo,31019,46300
+Nebraska,Burt,31021,43333
+Nebraska,Butler,31023,45226
+Nebraska,Cass,31025,62527
+Nebraska,Cedar,31027,42430
+Nebraska,Chase,31029,37192
+Nebraska,Cherry,31031,39089
+Nebraska,Cheyenne,31033,47115
+Nebraska,Clay,31035,39642
+Nebraska,Colfax,31037,45919
+Nebraska,Cuming,31039,41900
+Nebraska,Custer,31041,42282
+Nebraska,Dakota,31043,44564
+Nebraska,Dawes,31045,31052
+Nebraska,Dawson,31047,40842
+Nebraska,Deuel,31049,38933
+Nebraska,Dixon,31051,42016
+Nebraska,Dodge,31053,44904
+Nebraska,Douglas,31055,50107
+Nebraska,Dundy,31057,38346
+Nebraska,Fillmore,31059,42464
+Nebraska,Franklin,31061,35259
+Nebraska,Frontier,31063,41676
+Nebraska,Furnas,31065,38406
+Nebraska,Gage,31067,41569
+Nebraska,Garden,31069,33692
+Nebraska,Garfield,31071,35455
+Nebraska,Gosper,31073,43487
+Nebraska,Grant,31075,37000
+Nebraska,Greeley,31077,38355
+Nebraska,Hall,31079,46215
+Nebraska,Hamilton,31081,49618
+Nebraska,Harlan,31083,39565
+Nebraska,Hayes,31085,39427
+Nebraska,Hitchcock,31087,36307
+Nebraska,Holt,31089,37625
+Nebraska,Hooker,31091,35547
+Nebraska,Howard,31093,44104
+Nebraska,Jefferson,31095,38797
+Nebraska,Johnson,31097,43631
+Nebraska,Kearney,31099,49894
+Nebraska,Keith,31101,40826
+Nebraska,Keya Paha,31103,34038
+Nebraska,Kimball,31105,40233
+Nebraska,Knox,31107,35349
+Nebraska,Lancaster,31109,50217
+Nebraska,Lincoln,31111,44667
+Nebraska,Logan,31113,42857
+Nebraska,Loup,31115,31364
+Nebraska,McPherson,31117,50833
+Nebraska,Madison,31119,42911
+Nebraska,Merrick,31121,46171
+Nebraska,Morrill,31123,36986
+Nebraska,Nance,31125,40729
+Nebraska,Nemaha,31127,41852
+Nebraska,Nuckolls,31129,32076
+Nebraska,Otoe,31131,46160
+Nebraska,Pawnee,31133,41471
+Nebraska,Perkins,31135,46151
+Nebraska,Phelps,31137,43602
+Nebraska,Pierce,31139,46579
+Nebraska,Platte,31141,48359
+Nebraska,Polk,31143,44104
+Nebraska,Red Willow,31145,39674
+Nebraska,Richardson,31147,36698
+Nebraska,Rock,31149,34620
+Nebraska,Saline,31151,45893
+Nebraska,Sarpy,31153,65189
+Nebraska,Saunders,31155,56495
+Nebraska,Scotts Bluff,31157,37643
+Nebraska,Seward,31159,54872
+Nebraska,Sheridan,31161,31003
+Nebraska,Sherman,31163,36741
+Nebraska,Sioux,31165,43313
+Nebraska,Stanton,31167,45613
+Nebraska,Thayer,31169,36719
+Nebraska,Thomas,31171,41000
+Nebraska,Thurston,31173,40553
+Nebraska,Valley,31175,34211
+Nebraska,Washington,31177,60870
+Nebraska,Wayne,31179,43956
+Nebraska,Webster,31181,37386
+Nebraska,Wheeler,31183,42955
+Nebraska,York,31185,47126
+Nevada,Churchill,32001,53134
+Nevada,Clark,32003,56080
+Nevada,Douglas,32005,63531
+Nevada,Elko,32007,63327
+Nevada,Esmeralda,32009,44118
+Nevada,Eureka,32011,61472
+Nevada,Humboldt,32013,55084
+Nevada,Lander,32015,54008
+Nevada,Lincoln,32017,42955
+Nevada,Lyon,32019,48513
+Nevada,Mineral,32021,30217
+Nevada,Nye,32023,42192
+Nevada,Pershing,32027,53042
+Nevada,Storey,32029,60925
+Nevada,Washoe,32031,55525
+Nevada,White Pine,32033,46148
+Nevada,Carson City city,32510,52096
+New Hampshire,Belknap,33001,54565
+New Hampshire,Carroll,33003,50479
+New Hampshire,Cheshire,33005,55719
+New Hampshire,Coos,33007,42786
+New Hampshire,Grafton,33009,52691
+New Hampshire,Hillsborough,33011,68513
+New Hampshire,Merrimack,33013,62225
+New Hampshire,Rockingham,33015,74842
+New Hampshire,Strafford,33017,58363
+New Hampshire,Sullivan,33019,50016
+New Jersey,Atlantic,34001,54934
+New Jersey,Bergen,34003,81350
+New Jersey,Burlington,34005,75383
+New Jersey,Camden,34007,60362
+New Jersey,Cape May,34009,54441
+New Jersey,Cumberland,34011,50035
+New Jersey,Essex,34013,54176
+New Jersey,Gloucester,34015,71883
+New Jersey,Hudson,34017,53475
+New Jersey,Hunterdon,34019,102500
+New Jersey,Mercer,34021,71767
+New Jersey,Middlesex,34023,76321
+New Jersey,Monmouth,34025,82013
+New Jersey,Morris,34027,96316
+New Jersey,Ocean,34029,59939
+New Jersey,Passaic,34031,54888
+New Jersey,Salem,34033,59452
+New Jersey,Somerset,34035,96233
+New Jersey,Sussex,34037,81488
+New Jersey,Union,34039,66433
+New Jersey,Warren,34041,69767
+New Mexico,Bernalillo,35001,46121
+New Mexico,Catron,35003,30413
+New Mexico,Chaves,35005,36445
+New Mexico,Cibola,35006,36146
+New Mexico,Colfax,35007,39249
+New Mexico,Curry,35009,36621
+New Mexico,De Baca,35011,27821
+New Mexico,Dona Ana,35013,35544
+New Mexico,Eddy,35015,44510
+New Mexico,Grant,35017,35896
+New Mexico,Guadalupe,35019,29085
+New Mexico,Harding,35021,31042
+New Mexico,Hidalgo,35023,39020
+New Mexico,Lea,35025,42816
+New Mexico,Lincoln,35027,44079
+New Mexico,Los Alamos,35028,100423
+New Mexico,Luna,35029,26661
+New Mexico,McKinley,35031,32615
+New Mexico,Mora,35033,33622
+New Mexico,Otero,35035,38262
+New Mexico,Quay,35037,29797
+New Mexico,Rio Arriba,35039,42514
+New Mexico,Roosevelt,35041,32169
+New Mexico,Sandoval,35043,56703
+New Mexico,San Juan,35045,45361
+New Mexico,San Miguel,35047,30956
+New Mexico,Santa Fe,35049,52923
+New Mexico,Sierra,35051,25642
+New Mexico,Socorro,35053,32329
+New Mexico,Taos,35055,35800
+New Mexico,Torrance,35057,35146
+New Mexico,Union,35059,37415
+New Mexico,Valencia,35061,42955
+New York,Albany,36001,55350
+New York,Allegany,36003,40917
+New York,Bronx,36005,33794
+New York,Broome,36007,43467
+New York,Cattaraugus,36009,41482
+New York,Cayuga,36011,47414
+New York,Chautauqua,36013,40179
+New York,Chemung,36015,42420
+New York,Chenango,36017,43991
+New York,Clinton,36019,47786
+New York,Columbia,36021,54573
+New York,Cortland,36023,44853
+New York,Delaware,36025,41656
+New York,Dutchess,36027,68472
+New York,Erie,36029,46609
+New York,Essex,36031,44930
+New York,Franklin,36033,40587
+New York,Fulton,36035,41425
+New York,Genesee,36037,48197
+New York,Greene,36039,46213
+New York,Hamilton,36041,45242
+New York,Herkimer,36043,42048
+New York,Jefferson,36045,43447
+New York,Kings,36047,42894
+New York,Lewis,36049,41719
+New York,Livingston,36051,51698
+New York,Madison,36053,51670
+New York,Monroe,36055,51105
+New York,Montgomery,36057,42716
+New York,Nassau,36059,92450
+New York,New York,36061,66818
+New York,Niagara,36063,45749
+New York,Oneida,36065,45433
+New York,Onondaga,36067,50129
+New York,Ontario,36069,55300
+New York,Orange,36071,69255
+New York,Orleans,36073,46418
+New York,Oswego,36075,45071
+New York,Otsego,36077,44057
+New York,Putnam,36079,88036
+New York,Queens,36081,54870
+New York,Rensselaer,36083,54221
+New York,Richmond,36085,71206
+New York,Rockland,36087,82368
+New York,St. Lawrence,36089,41670
+New York,Saratoga,36091,64705
+New York,Schenectady,36093,54468
+New York,Schoharie,36095,49695
+New York,Schuyler,36097,44575
+New York,Seneca,36099,45571
+New York,Steuben,36101,42812
+New York,Suffolk,36103,84530
+New York,Sullivan,36105,48586
+New York,Tioga,36107,51011
+New York,Tompkins,36109,46506
+New York,Ulster,36111,57485
+New York,Warren,36113,50168
+New York,Washington,36115,46886
+New York,Wayne,36117,52351
+New York,Westchester,36119,79585
+New York,Wyoming,36121,48943
+New York,Yates,36123,44947
+North Carolina,Alamance,37001,44172
+North Carolina,Alexander,37003,41520
+North Carolina,Alleghany,37005,32541
+North Carolina,Anson,37007,33706
+North Carolina,Ashe,37009,35312
+North Carolina,Avery,37011,34676
+North Carolina,Beaufort,37013,39817
+North Carolina,Bertie,37015,27487
+North Carolina,Bladen,37017,30823
+North Carolina,Brunswick,37019,44321
+North Carolina,Buncombe,37021,43750
+North Carolina,Burke,37023,36061
+North Carolina,Cabarrus,37025,54274
+North Carolina,Caldwell,37027,37308
+North Carolina,Camden,37029,58480
+North Carolina,Carteret,37031,46982
+North Carolina,Caswell,37033,36414
+North Carolina,Catawba,37035,43303
+North Carolina,Chatham,37037,55333
+North Carolina,Cherokee,37039,37708
+North Carolina,Chowan,37041,37825
+North Carolina,Clay,37043,35089
+North Carolina,Cleveland,37045,37889
+North Carolina,Columbus,37047,32283
+North Carolina,Craven,37049,44298
+North Carolina,Cumberland,37051,42733
+North Carolina,Currituck,37053,55261
+North Carolina,Dare,37055,52173
+North Carolina,Davidson,37057,44016
+North Carolina,Davie,37059,51110
+North Carolina,Duplin,37061,33703
+North Carolina,Durham,37063,49928
+North Carolina,Edgecombe,37065,30734
+North Carolina,Forsyth,37067,47438
+North Carolina,Franklin,37069,43446
+North Carolina,Gaston,37071,42110
+North Carolina,Gates,37073,47217
+North Carolina,Graham,37075,27786
+North Carolina,Granville,37077,48186
+North Carolina,Greene,37079,38657
+North Carolina,Guilford,37081,46100
+North Carolina,Halifax,37083,29681
+North Carolina,Harnett,37085,42369
+North Carolina,Haywood,37087,39676
+North Carolina,Henderson,37089,44899
+North Carolina,Hertford,37091,30958
+North Carolina,Hoke,37093,41595
+North Carolina,Hyde,37095,40488
+North Carolina,Iredell,37097,48234
+North Carolina,Jackson,37099,37672
+North Carolina,Johnston,37101,49897
+North Carolina,Jones,37103,33563
+North Carolina,Lee,37105,43330
+North Carolina,Lenoir,37107,32188
+North Carolina,Lincoln,37109,47859
+North Carolina,McDowell,37111,37374
+North Carolina,Macon,37113,38351
+North Carolina,Madison,37115,37500
+North Carolina,Martin,37117,32121
+North Carolina,Mecklenburg,37119,55587
+North Carolina,Mitchell,37121,33118
+North Carolina,Montgomery,37123,33223
+North Carolina,Moore,37125,46940
+North Carolina,Nash,37127,42909
+North Carolina,New Hanover,37129,47644
+North Carolina,Northampton,37131,29349
+North Carolina,Onslow,37133,41725
+North Carolina,Orange,37135,49836
+North Carolina,Pamlico,37137,37936
+North Carolina,Pasquotank,37139,44319
+North Carolina,Pender,37141,42760
+North Carolina,Perquimans,37143,37798
+North Carolina,Person,37145,44381
+North Carolina,Pitt,37147,36732
+North Carolina,Polk,37149,39246
+North Carolina,Randolph,37151,39642
+North Carolina,Richmond,37153,29403
+North Carolina,Robeson,37155,28426
+North Carolina,Rockingham,37157,38160
+North Carolina,Rowan,37159,45253
+North Carolina,Rutherford,37161,34881
+North Carolina,Sampson,37163,34779
+North Carolina,Scotland,37165,31439
+North Carolina,Stanly,37167,43491
+North Carolina,Stokes,37169,39975
+North Carolina,Surry,37171,36511
+North Carolina,Swain,37173,33272
+North Carolina,Transylvania,37175,38446
+North Carolina,Tyrrell,37177,30313
+North Carolina,Union,37179,60074
+North Carolina,Vance,37181,33874
+North Carolina,Wake,37183,64008
+North Carolina,Warren,37185,27876
+North Carolina,Washington,37187,32845
+North Carolina,Watauga,37189,33801
+North Carolina,Wayne,37191,40325
+North Carolina,Wilkes,37193,34154
+North Carolina,Wilson,37195,38712
+North Carolina,Yadkin,37197,38105
+North Carolina,Yancey,37199,34949
+North Dakota,Adams,38001,35550
+North Dakota,Barnes,38003,41911
+North Dakota,Benson,38005,30809
+North Dakota,Billings,38007,55192
+North Dakota,Bottineau,38009,39643
+North Dakota,Bowman,38011,47232
+North Dakota,Burke,38013,49013
+North Dakota,Burleigh,38015,52070
+North Dakota,Cass,38017,45891
+North Dakota,Cavalier,38019,47143
+North Dakota,Dickey,38021,36896
+North Dakota,Divide,38023,46953
+North Dakota,Dunn,38025,45270
+North Dakota,Eddy,38027,38050
+North Dakota,Emmons,38029,33947
+North Dakota,Foster,38031,40801
+North Dakota,Golden Valley,38033,29226
+North Dakota,Grand Forks,38035,42360
+North Dakota,Grant,38037,41875
+North Dakota,Griggs,38039,38952
+North Dakota,Hettinger,38041,39018
+North Dakota,Kidder,38043,38438
+North Dakota,LaMoure,38045,41992
+North Dakota,Logan,38047,40917
+North Dakota,McHenry,38049,37039
+North Dakota,McIntosh,38051,37500
+North Dakota,McKenzie,38053,46330
+North Dakota,McLean,38055,50679
+North Dakota,Mercer,38057,57640
+North Dakota,Morton,38059,48791
+North Dakota,Mountrail,38061,46821
+North Dakota,Nelson,38063,36336
+North Dakota,Oliver,38065,61607
+North Dakota,Pembina,38067,45457
+North Dakota,Pierce,38069,34668
+North Dakota,Ramsey,38071,43009
+North Dakota,Ransom,38073,43944
+North Dakota,Renville,38075,43137
+North Dakota,Richland,38077,45403
+North Dakota,Rolette,38079,30921
+North Dakota,Sargent,38081,47652
+North Dakota,Sheridan,38083,35968
+North Dakota,Sioux,38085,29858
+North Dakota,Slope,38087,42679
+North Dakota,Stark,38089,46422
+North Dakota,Steele,38091,45037
+North Dakota,Stutsman,38093,42480
+North Dakota,Towner,38095,42681
+North Dakota,Traill,38097,44385
+North Dakota,Walsh,38099,42300
+North Dakota,Ward,38101,47683
+North Dakota,Wells,38103,38209
+North Dakota,Williams,38105,52139
+Ohio,Adams,39001,33850
+Ohio,Allen,39003,43433
+Ohio,Ashland,39005,45556
+Ohio,Ashtabula,39007,41498
+Ohio,Athens,39009,30190
+Ohio,Auglaize,39011,52185
+Ohio,Belmont,39013,37753
+Ohio,Brown,39015,45169
+Ohio,Butler,39017,54344
+Ohio,Carroll,39019,42375
+Ohio,Champaign,39021,49335
+Ohio,Clark,39023,43870
+Ohio,Clermont,39025,57217
+Ohio,Clinton,39027,47842
+Ohio,Columbiana,39029,40551
+Ohio,Coshocton,39031,40021
+Ohio,Crawford,39033,41575
+Ohio,Cuyahoga,39035,43145
+Ohio,Darke,39037,45165
+Ohio,Defiance,39039,45079
+Ohio,Delaware,39041,85054
+Ohio,Erie,39043,46403
+Ohio,Fairfield,39045,56955
+Ohio,Fayette,39047,40249
+Ohio,Franklin,39049,49041
+Ohio,Fulton,39051,50262
+Ohio,Gallia,39053,36675
+Ohio,Geauga,39055,67596
+Ohio,Greene,39057,57011
+Ohio,Guernsey,39059,37193
+Ohio,Hamilton,39061,48363
+Ohio,Hancock,39063,48369
+Ohio,Hardin,39065,41423
+Ohio,Harrison,39067,35493
+Ohio,Henry,39069,49417
+Ohio,Highland,39071,40138
+Ohio,Hocking,39073,40618
+Ohio,Holmes,39075,45171
+Ohio,Huron,39077,46898
+Ohio,Jackson,39079,34128
+Ohio,Jefferson,39081,37097
+Ohio,Knox,39083,45525
+Ohio,Lake,39085,54616
+Ohio,Lawrence,39087,34596
+Ohio,Licking,39089,53200
+Ohio,Logan,39091,47579
+Ohio,Lorain,39093,51981
+Ohio,Lucas,39095,42696
+Ohio,Madison,39097,53041
+Ohio,Mahoning,39099,38977
+Ohio,Marion,39101,40936
+Ohio,Medina,39103,66458
+Ohio,Meigs,39105,33928
+Ohio,Mercer,39107,50685
+Ohio,Miami,39109,51827
+Ohio,Monroe,39111,34621
+Ohio,Montgomery,39113,43815
+Ohio,Morgan,39115,33601
+Ohio,Morrow,39117,48907
+Ohio,Muskingum,39119,39582
+Ohio,Noble,39121,42961
+Ohio,Ottawa,39123,53277
+Ohio,Paulding,39125,45716
+Ohio,Perry,39127,42299
+Ohio,Pickaway,39129,48985
+Ohio,Pike,39131,35412
+Ohio,Portage,39133,50079
+Ohio,Preble,39135,48743
+Ohio,Putnam,39137,55630
+Ohio,Richland,39139,42233
+Ohio,Ross,39141,41641
+Ohio,Sandusky,39143,47699
+Ohio,Scioto,39145,31445
+Ohio,Seneca,39147,43397
+Ohio,Shelby,39149,49323
+Ohio,Stark,39151,44999
+Ohio,Summit,39153,47776
+Ohio,Trumbull,39155,42407
+Ohio,Tuscarawas,39157,42995
+Ohio,Union,39159,69079
+Ohio,Van Wert,39161,44526
+Ohio,Vinton,39163,33873
+Ohio,Warren,39165,70939
+Ohio,Washington,39167,40727
+Ohio,Wayne,39169,48474
+Ohio,Williams,39171,44734
+Ohio,Wood,39173,52818
+Ohio,Wyandot,39175,47683
+Oklahoma,Adair,40001,29798
+Oklahoma,Alfalfa,40003,39641
+Oklahoma,Atoka,40005,30990
+Oklahoma,Beaver,40007,47753
+Oklahoma,Beckham,40009,41225
+Oklahoma,Blaine,40011,39068
+Oklahoma,Bryan,40013,35598
+Oklahoma,Caddo,40015,36989
+Oklahoma,Canadian,40017,59015
+Oklahoma,Carter,40019,38132
+Oklahoma,Cherokee,40021,30635
+Oklahoma,Choctaw,40023,26403
+Oklahoma,Cimarron,40025,31655
+Oklahoma,Cleveland,40027,51068
+Oklahoma,Coal,40029,28911
+Oklahoma,Comanche,40031,43024
+Oklahoma,Cotton,40033,42386
+Oklahoma,Craig,40035,39335
+Oklahoma,Creek,40037,41260
+Oklahoma,Custer,40039,38537
+Oklahoma,Delaware,40041,35937
+Oklahoma,Dewey,40043,36173
+Oklahoma,Ellis,40045,40401
+Oklahoma,Garfield,40047,40720
+Oklahoma,Garvin,40049,35972
+Oklahoma,Grady,40051,44415
+Oklahoma,Grant,40053,43640
+Oklahoma,Greer,40055,34844
+Oklahoma,Harmon,40057,31531
+Oklahoma,Harper,40059,41750
+Oklahoma,Haskell,40061,34274
+Oklahoma,Hughes,40063,30856
+Oklahoma,Jackson,40065,40077
+Oklahoma,Jefferson,40067,32783
+Oklahoma,Johnston,40069,32848
+Oklahoma,Kay,40071,37803
+Oklahoma,Kingfisher,40073,48811
+Oklahoma,Kiowa,40075,32375
+Oklahoma,Latimer,40077,40550
+Oklahoma,Le Flore,40079,35963
+Oklahoma,Lincoln,40081,40592
+Oklahoma,Logan,40083,44387
+Oklahoma,Love,40085,39981
+Oklahoma,McClain,40087,52538
+Oklahoma,McCurtain,40089,31352
+Oklahoma,McIntosh,40091,28305
+Oklahoma,Major,40093,43817
+Oklahoma,Marshall,40095,38624
+Oklahoma,Mayes,40097,39463
+Oklahoma,Murray,40099,39989
+Oklahoma,Muskogee,40101,35169
+Oklahoma,Noble,40103,37609
+Oklahoma,Nowata,40105,35893
+Oklahoma,Okfuskee,40107,31335
+Oklahoma,Oklahoma,40109,41862
+Oklahoma,Okmulgee,40111,35615
+Oklahoma,Osage,40113,41630
+Oklahoma,Ottawa,40115,34160
+Oklahoma,Pawnee,40117,40963
+Oklahoma,Payne,40119,34255
+Oklahoma,Pittsburg,40121,38521
+Oklahoma,Pontotoc,40123,36446
+Oklahoma,Pottawatomie,40125,38836
+Oklahoma,Pushmataha,40127,27536
+Oklahoma,Roger Mills,40129,50089
+Oklahoma,Rogers,40131,56438
+Oklahoma,Seminole,40133,31760
+Oklahoma,Sequoyah,40135,33424
+Oklahoma,Stephens,40137,42563
+Oklahoma,Texas,40139,42634
+Oklahoma,Tillman,40141,28368
+Oklahoma,Tulsa,40143,45264
+Oklahoma,Wagoner,40145,52536
+Oklahoma,Washington,40147,43779
+Oklahoma,Washita,40149,41294
+Oklahoma,Woods,40151,46074
+Oklahoma,Woodward,40153,45995
+Oregon,Baker,41001,38401
+Oregon,Benton,41003,46652
+Oregon,Clackamas,41005,62030
+Oregon,Clatsop,41007,40426
+Oregon,Columbia,41009,56903
+Oregon,Coos,41011,36754
+Oregon,Crook,41013,45987
+Oregon,Curry,41015,36175
+Oregon,Deschutes,41017,53913
+Oregon,Douglas,41019,40324
+Oregon,Gilliam,41021,42115
+Oregon,Grant,41023,35283
+Oregon,Harney,41025,38784
+Oregon,Hood River,41027,49795
+Oregon,Jackson,41029,44640
+Oregon,Jefferson,41031,40256
+Oregon,Josephine,41033,37456
+Oregon,Klamath,41035,41040
+Oregon,Lake,41037,37500
+Oregon,Lane,41039,42852
+Oregon,Lincoln,41041,38170
+Oregon,Linn,41043,45700
+Oregon,Malheur,41045,39489
+Oregon,Marion,41047,46453
+Oregon,Morrow,41049,43581
+Oregon,Multnomah,41051,49171
+Oregon,Polk,41053,50750
+Oregon,Sherman,41055,35144
+Oregon,Tillamook,41057,38851
+Oregon,Umatilla,41059,45230
+Oregon,Union,41061,40542
+Oregon,Wallowa,41063,41382
+Oregon,Wasco,41065,41307
+Oregon,Washington,41067,62218
+Oregon,Wheeler,41069,32339
+Oregon,Yamhill,41071,51191
+Pennsylvania,Adams,42001,54899
+Pennsylvania,Allegheny,42003,46641
+Pennsylvania,Armstrong,42005,41075
+Pennsylvania,Beaver,42007,45414
+Pennsylvania,Bedford,42009,39827
+Pennsylvania,Berks,42011,54139
+Pennsylvania,Blair,42013,40673
+Pennsylvania,Bradford,42015,39242
+Pennsylvania,Bucks,42017,74111
+Pennsylvania,Butler,42019,55373
+Pennsylvania,Cambria,42021,38381
+Pennsylvania,Cameron,42023,40288
+Pennsylvania,Carbon,42025,47283
+Pennsylvania,Centre,42027,45959
+Pennsylvania,Chester,42029,83759
+Pennsylvania,Clarion,42031,39083
+Pennsylvania,Clearfield,42033,36470
+Pennsylvania,Clinton,42035,39198
+Pennsylvania,Columbia,42037,41613
+Pennsylvania,Crawford,42039,38469
+Pennsylvania,Cumberland,42041,60400
+Pennsylvania,Dauphin,42043,51559
+Pennsylvania,Delaware,42045,61605
+Pennsylvania,Elk,42047,43077
+Pennsylvania,Erie,42049,43456
+Pennsylvania,Fayette,42051,34018
+Pennsylvania,Forest,42053,34110
+Pennsylvania,Franklin,42055,50557
+Pennsylvania,Fulton,42057,44517
+Pennsylvania,Greene,42059,38078
+Pennsylvania,Huntingdon,42061,41078
+Pennsylvania,Indiana,42063,38546
+Pennsylvania,Jefferson,42065,36917
+Pennsylvania,Juniata,42067,42901
+Pennsylvania,Lackawanna,42069,42801
+Pennsylvania,Lancaster,42071,54893
+Pennsylvania,Lawrence,42073,42833
+Pennsylvania,Lebanon,42075,51547
+Pennsylvania,Lehigh,42077,53551
+Pennsylvania,Luzerne,42079,41830
+Pennsylvania,Lycoming,42081,41856
+Pennsylvania,McKean,42083,40080
+Pennsylvania,Mercer,42085,42264
+Pennsylvania,Mifflin,42087,36369
+Pennsylvania,Monroe,42089,57228
+Pennsylvania,Montgomery,42091,75728
+Pennsylvania,Montour,42093,47765
+Pennsylvania,Northampton,42095,59070
+Pennsylvania,Northumberland,42097,38518
+Pennsylvania,Perry,42099,51497
+Pennsylvania,Philadelphia,42101,36669
+Pennsylvania,Pike,42103,56447
+Pennsylvania,Potter,42105,37044
+Pennsylvania,Schuylkill,42107,41315
+Pennsylvania,Snyder,42109,44702
+Pennsylvania,Somerset,42111,38109
+Pennsylvania,Sullivan,42113,37621
+Pennsylvania,Susquehanna,42115,41624
+Pennsylvania,Tioga,42117,39812
+Pennsylvania,Union,42119,44246
+Pennsylvania,Venango,42121,38475
+Pennsylvania,Warren,42123,40160
+Pennsylvania,Washington,42125,49354
+Pennsylvania,Wayne,42127,44194
+Pennsylvania,Westmoreland,42129,46760
+Pennsylvania,Wyoming,42131,44971
+Pennsylvania,York,42133,56271
+Rhode Island,Bristol,44001,69227
+Rhode Island,Kent,44003,62007
+Rhode Island,Newport,44005,65269
+Rhode Island,Providence,44007,49130
+Rhode Island,Washington,44009,69828
+South Carolina,Abbeville,45001,33495
+South Carolina,Aiken,45003,44534
+South Carolina,Allendale,45005,20551
+South Carolina,Anderson,45007,43109
+South Carolina,Bamberg,45009,30889
+South Carolina,Barnwell,45011,35888
+South Carolina,Beaufort,45013,54131
+South Carolina,Berkeley,45015,49286
+South Carolina,Calhoun,45017,37402
+South Carolina,Charleston,45019,47770
+South Carolina,Cherokee,45021,34808
+South Carolina,Chester,45023,31964
+South Carolina,Chesterfield,45025,33968
+South Carolina,Clarendon,45027,31761
+South Carolina,Colleton,45029,34135
+South Carolina,Darlington,45031,38753
+South Carolina,Dillon,45033,27588
+South Carolina,Dorchester,45035,54139
+South Carolina,Edgefield,45037,44391
+South Carolina,Fairfield,45039,32120
+South Carolina,Florence,45041,41142
+South Carolina,Georgetown,45043,42283
+South Carolina,Greenville,45045,46671
+South Carolina,Greenwood,45047,39801
+South Carolina,Hampton,45049,34285
+South Carolina,Horry,45051,42642
+South Carolina,Jasper,45053,36288
+South Carolina,Kershaw,45055,45035
+South Carolina,Lancaster,45057,38590
+South Carolina,Laurens,45059,38816
+South Carolina,Lee,45061,24847
+South Carolina,Lexington,45063,51983
+South Carolina,McCormick,45065,34786
+South Carolina,Marion,45067,29626
+South Carolina,Marlboro,45069,26002
+South Carolina,Newberry,45071,41080
+South Carolina,Oconee,45073,41095
+South Carolina,Orangeburg,45075,32132
+South Carolina,Pickens,45077,41969
+South Carolina,Richland,45079,47969
+South Carolina,Saluda,45081,41510
+South Carolina,Spartanburg,45083,42349
+South Carolina,Sumter,45085,37752
+South Carolina,Union,45087,33345
+South Carolina,Williamsburg,45089,25948
+South Carolina,York,45091,51332
+South Dakota,Aurora,46003,43209
+South Dakota,Beadle,46005,42259
+South Dakota,Bennett,46007,36580
+South Dakota,Bon Homme,46009,38750
+South Dakota,Brookings,46011,41043
+South Dakota,Brown,46013,45054
+South Dakota,Brule,46015,44570
+South Dakota,Buffalo,46017,25714
+South Dakota,Butte,46019,36649
+South Dakota,Campbell,46021,35764
+South Dakota,Charles Mix,46023,35385
+South Dakota,Clark,46025,42604
+South Dakota,Clay,46027,31952
+South Dakota,Codington,46029,41716
+South Dakota,Corson,46031,29750
+South Dakota,Custer,46033,45775
+South Dakota,Davison,46035,44242
+South Dakota,Day,46037,33810
+South Dakota,Deuel,46039,46341
+South Dakota,Dewey,46041,36587
+South Dakota,Douglas,46043,38963
+South Dakota,Edmunds,46045,46169
+South Dakota,Fall River,46047,38762
+South Dakota,Faulk,46049,35924
+South Dakota,Grant,46051,40293
+South Dakota,Gregory,46053,32808
+South Dakota,Haakon,46055,46667
+South Dakota,Hamlin,46057,43227
+South Dakota,Hand,46059,45202
+South Dakota,Hanson,46061,45938
+South Dakota,Harding,46063,36912
+South Dakota,Hughes,46065,51444
+South Dakota,Hutchinson,46067,39066
+South Dakota,Hyde,46069,36379
+South Dakota,Jackson,46071,32981
+South Dakota,Jerauld,46073,39531
+South Dakota,Jones,46075,43750
+South Dakota,Kingsbury,46077,42822
+South Dakota,Lake,46079,46241
+South Dakota,Lawrence,46081,38996
+South Dakota,Lincoln,46083,65992
+South Dakota,Lyman,46085,34132
+South Dakota,McCook,46087,43984
+South Dakota,McPherson,46089,30690
+South Dakota,Marshall,46091,40823
+South Dakota,Meade,46093,41934
+South Dakota,Mellette,46095,34632
+South Dakota,Miner,46097,41771
+South Dakota,Minnehaha,46099,50671
+South Dakota,Moody,46101,51336
+South Dakota,Pennington,46103,46288
+South Dakota,Perkins,46105,34495
+South Dakota,Potter,46107,38345
+South Dakota,Roberts,46109,35462
+South Dakota,Sanborn,46111,41597
+South Dakota,Shannon,46113,28808
+South Dakota,Spink,46115,44552
+South Dakota,Stanley,46117,51089
+South Dakota,Sully,46119,48098
+South Dakota,Todd,46121,26337
+South Dakota,Tripp,46123,39044
+South Dakota,Turner,46125,47950
+South Dakota,Union,46127,56720
+South Dakota,Walworth,46129,37804
+South Dakota,Yankton,46135,45848
+South Dakota,Ziebach,46137,26833
+Tennessee,Anderson,47001,42643
+Tennessee,Bedford,47003,37917
+Tennessee,Benton,47005,33647
+Tennessee,Bledsoe,47007,32439
+Tennessee,Blount,47009,47218
+Tennessee,Bradley,47011,39995
+Tennessee,Campbell,47013,28988
+Tennessee,Cannon,47015,35972
+Tennessee,Carroll,47017,35713
+Tennessee,Carter,47019,32424
+Tennessee,Cheatham,47021,51221
+Tennessee,Chester,47023,37569
+Tennessee,Claiborne,47025,32212
+Tennessee,Clay,47027,32134
+Tennessee,Cocke,47029,30027
+Tennessee,Coffee,47031,39456
+Tennessee,Crockett,47033,35370
+Tennessee,Cumberland,47035,36346
+Tennessee,Davidson,47037,45828
+Tennessee,Decatur,47039,25333
+Tennessee,DeKalb,47041,34067
+Tennessee,Dickson,47043,44988
+Tennessee,Dyer,47045,36121
+Tennessee,Fayette,47047,54577
+Tennessee,Fentress,47049,28407
+Tennessee,Franklin,47051,41345
+Tennessee,Gibson,47053,34050
+Tennessee,Giles,47055,39228
+Tennessee,Grainger,47057,32602
+Tennessee,Greene,47059,35995
+Tennessee,Grundy,47061,26239
+Tennessee,Hamblen,47063,39507
+Tennessee,Hamilton,47065,45557
+Tennessee,Hancock,47067,23413
+Tennessee,Hardeman,47069,32483
+Tennessee,Hardin,47071,30558
+Tennessee,Hawkins,47073,34310
+Tennessee,Haywood,47075,30821
+Tennessee,Henderson,47077,39294
+Tennessee,Henry,47079,36408
+Tennessee,Hickman,47081,37880
+Tennessee,Houston,47083,31858
+Tennessee,Humphreys,47085,41957
+Tennessee,Jackson,47087,30844
+Tennessee,Jefferson,47089,37951
+Tennessee,Johnson,47091,29771
+Tennessee,Knox,47093,46233
+Tennessee,Lake,47095,23441
+Tennessee,Lauderdale,47097,31667
+Tennessee,Lawrence,47099,35662
+Tennessee,Lewis,47101,31167
+Tennessee,Lincoln,47103,42546
+Tennessee,Loudon,47105,49653
+Tennessee,McMinn,47107,35860
+Tennessee,McNairy,47109,34279
+Tennessee,Macon,47111,32354
+Tennessee,Madison,47113,39743
+Tennessee,Marion,47115,38367
+Tennessee,Marshall,47117,40318
+Tennessee,Maury,47119,45724
+Tennessee,Meigs,47121,32096
+Tennessee,Monroe,47123,36308
+Tennessee,Montgomery,47125,48794
+Tennessee,Moore,47127,47216
+Tennessee,Morgan,47129,32928
+Tennessee,Obion,47131,37581
+Tennessee,Overton,47133,33323
+Tennessee,Perry,47135,32021
+Tennessee,Pickett,47137,24757
+Tennessee,Polk,47139,32589
+Tennessee,Putnam,47141,34705
+Tennessee,Rhea,47143,34830
+Tennessee,Roane,47145,41740
+Tennessee,Robertson,47147,50160
+Tennessee,Rutherford,47149,53063
+Tennessee,Scott,47151,27027
+Tennessee,Sequatchie,47153,37150
+Tennessee,Sevier,47155,41774
+Tennessee,Shelby,47157,44146
+Tennessee,Smith,47159,44430
+Tennessee,Stewart,47161,37377
+Tennessee,Sullivan,47163,39106
+Tennessee,Sumner,47165,54708
+Tennessee,Tipton,47167,51138
+Tennessee,Trousdale,47169,44764
+Tennessee,Unicoi,47171,34686
+Tennessee,Union,47173,31226
+Tennessee,Van Buren,47175,30359
+Tennessee,Warren,47177,34261
+Tennessee,Washington,47179,41107
+Tennessee,Wayne,47181,31697
+Tennessee,Weakley,47183,33506
+Tennessee,White,47185,32678
+Tennessee,Williamson,47187,88358
+Tennessee,Wilson,47189,61179
+Texas,Anderson,48001,39355
+Texas,Andrews,48003,47227
+Texas,Angelina,48005,38862
+Texas,Aransas,48007,41172
+Texas,Archer,48009,51792
+Texas,Armstrong,48011,58516
+Texas,Atascosa,48013,41178
+Texas,Austin,48015,51086
+Texas,Bailey,48017,35585
+Texas,Bandera,48019,44244
+Texas,Bastrop,48021,50585
+Texas,Baylor,48023,32569
+Texas,Bee,48025,35759
+Texas,Bell,48027,46473
+Texas,Bexar,48029,45688
+Texas,Blanco,48031,50225
+Texas,Borden,48033,55200
+Texas,Bosque,48035,44244
+Texas,Bowie,48037,40569
+Texas,Brazoria,48039,62570
+Texas,Brazos,48041,34688
+Texas,Brewster,48043,34640
+Texas,Briscoe,48045,31141
+Texas,Brooks,48047,19425
+Texas,Brown,48049,38531
+Texas,Burleson,48051,39522
+Texas,Burnet,48053,46463
+Texas,Caldwell,48055,41387
+Texas,Calhoun,48057,43305
+Texas,Callahan,48059,44470
+Texas,Cameron,48061,30034
+Texas,Camp,48063,33891
+Texas,Carson,48065,53425
+Texas,Cass,48067,36693
+Texas,Castro,48069,34849
+Texas,Chambers,48071,60451
+Texas,Cherokee,48073,36571
+Texas,Childress,48075,34953
+Texas,Clay,48077,51145
+Texas,Cochran,48079,34744
+Texas,Coke,48081,33375
+Texas,Coleman,48083,27538
+Texas,Collin,48085,80545
+Texas,Collingsworth,48087,39524
+Texas,Colorado,48089,39031
+Texas,Comal,48091,63544
+Texas,Comanche,48093,34068
+Texas,Concho,48095,45625
+Texas,Cooke,48097,50030
+Texas,Coryell,48099,45678
+Texas,Cottle,48101,32009
+Texas,Crane,48103,43185
+Texas,Crockett,48105,47143
+Texas,Crosby,48107,34485
+Texas,Culberson,48109,38365
+Texas,Dallam,48111,40714
+Texas,Dallas,48113,47059
+Texas,Dawson,48115,33586
+Texas,Deaf Smith,48117,38849
+Texas,Delta,48119,41103
+Texas,Denton,48121,70002
+Texas,DeWitt,48123,37621
+Texas,Dickens,48125,28750
+Texas,Dimmit,48127,24268
+Texas,Donley,48129,36250
+Texas,Duval,48131,26117
+Texas,Eastland,48133,33149
+Texas,Ector,48135,44322
+Texas,Edwards,48137,34426
+Texas,Ellis,48139,58809
+Texas,El Paso,48141,35249
+Texas,Erath,48143,37729
+Texas,Falls,48145,30502
+Texas,Fannin,48147,42423
+Texas,Fayette,48149,44031
+Texas,Fisher,48151,37601
+Texas,Floyd,48153,31588
+Texas,Foard,48155,24861
+Texas,Fort Bend,48157,80638
+Texas,Franklin,48159,42189
+Texas,Freestone,48161,44303
+Texas,Frio,48163,34531
+Texas,Gaines,48165,47808
+Texas,Galveston,48167,54398
+Texas,Garza,48169,31200
+Texas,Gillespie,48171,52403
+Texas,Glasscock,48173,54000
+Texas,Goliad,48175,50486
+Texas,Gonzales,48177,37103
+Texas,Gray,48179,36788
+Texas,Grayson,48181,45171
+Texas,Gregg,48183,42499
+Texas,Grimes,48185,39403
+Texas,Guadalupe,48187,59375
+Texas,Hale,48189,34820
+Texas,Hall,48191,29032
+Texas,Hamilton,48193,37796
+Texas,Hansford,48195,46799
+Texas,Hardeman,48197,36385
+Texas,Hardin,48199,52515
+Texas,Harris,48201,50569
+Texas,Harrison,48203,41966
+Texas,Hartley,48205,57083
+Texas,Haskell,48207,32139
+Texas,Hays,48209,52409
+Texas,Hemphill,48211,60435
+Texas,Henderson,48213,38632
+Texas,Hidalgo,48215,30076
+Texas,Hill,48217,38159
+Texas,Hockley,48219,45384
+Texas,Hood,48221,52870
+Texas,Hopkins,48223,39966
+Texas,Houston,48225,31911
+Texas,Howard,48227,36931
+Texas,Hudspeth,48229,28292
+Texas,Hunt,48231,42894
+Texas,Hutchinson,48233,41703
+Texas,Irion,48235,43536
+Texas,Jack,48237,43409
+Texas,Jackson,48239,48509
+Texas,Jasper,48241,37020
+Texas,Jeff Davis,48243,39550
+Texas,Jefferson,48245,41420
+Texas,Jim Hogg,48247,33635
+Texas,Jim Wells,48249,32816
+Texas,Johnson,48251,53444
+Texas,Jones,48253,40947
+Texas,Karnes,48255,35101
+Texas,Kaufman,48257,55857
+Texas,Kendall,48259,68389
+Texas,Kenedy,48261,25417
+Texas,Kent,48263,38092
+Texas,Kerr,48265,43371
+Texas,Kimble,48267,42188
+Texas,King,48269,48182
+Texas,Kinney,48271,24024
+Texas,Kleberg,48273,34652
+Texas,Knox,48275,31926
+Texas,Lamar,48277,37029
+Texas,Lamb,48279,35716
+Texas,Lampasas,48281,44301
+Texas,La Salle,48283,31838
+Texas,Lavaca,48285,41696
+Texas,Lee,48287,45161
+Texas,Leon,48289,38067
+Texas,Liberty,48291,44730
+Texas,Limestone,48293,39119
+Texas,Lipscomb,48295,48646
+Texas,Live Oak,48297,41652
+Texas,Llano,48299,42381
+Texas,Loving,48301,81328
+Texas,Lubbock,48303,40467
+Texas,Lynn,48305,39148
+Texas,McCulloch,48307,36495
+Texas,McLennan,48309,40038
+Texas,McMullen,48311,40550
+Texas,Madison,48313,33952
+Texas,Marion,48315,30385
+Texas,Martin,48317,37463
+Texas,Mason,48319,37847
+Texas,Matagorda,48321,40307
+Texas,Maverick,48323,30123
+Texas,Medina,48325,46348
+Texas,Menard,48327,31016
+Texas,Midland,48329,52611
+Texas,Milam,48331,37565
+Texas,Mills,48333,34019
+Texas,Mitchell,48335,43009
+Texas,Montague,48337,41677
+Texas,Montgomery,48339,64971
+Texas,Moore,48341,41862
+Texas,Morris,48343,37173
+Texas,Motley,48345,33250
+Texas,Nacogdoches,48347,32487
+Texas,Navarro,48349,39555
+Texas,Newton,48351,36611
+Texas,Nolan,48353,37481
+Texas,Nueces,48355,42356
+Texas,Ochiltree,48357,48662
+Texas,Oldham,48359,48214
+Texas,Orange,48361,45608
+Texas,Palo Pinto,48363,39300
+Texas,Panola,48365,41309
+Texas,Parker,48367,61415
+Texas,Parmer,48369,36698
+Texas,Pecos,48371,34466
+Texas,Polk,48373,32026
+Texas,Potter,48375,34827
+Texas,Presidio,48377,29492
+Texas,Rains,48379,40873
+Texas,Randall,48381,54311
+Texas,Reagan,48383,51619
+Texas,Real,48385,29796
+Texas,Red River,48387,38053
+Texas,Reeves,48389,33569
+Texas,Refugio,48391,39914
+Texas,Roberts,48393,59097
+Texas,Robertson,48395,37941
+Texas,Rockwall,48397,80193
+Texas,Runnels,48399,37980
+Texas,Rusk,48401,44071
+Texas,Sabine,48403,32139
+Texas,San Augustine,48405,26660
+Texas,San Jacinto,48407,42043
+Texas,San Patricio,48409,43748
+Texas,San Saba,48411,35549
+Texas,Schleicher,48413,52872
+Texas,Scurry,48415,39665
+Texas,Shackelford,48417,44429
+Texas,Shelby,48419,31866
+Texas,Sherman,48421,40231
+Texas,Smith,48423,45447
+Texas,Somervell,48425,48566
+Texas,Starr,48427,21512
+Texas,Stephens,48429,34663
+Texas,Sterling,48431,38750
+Texas,Stonewall,48433,46121
+Texas,Sutton,48435,54557
+Texas,Swisher,48437,35060
+Texas,Tarrant,48439,54647
+Texas,Taylor,48441,40363
+Texas,Terrell,48443,35900
+Texas,Terry,48445,34310
+Texas,Throckmorton,48447,34239
+Texas,Titus,48449,39750
+Texas,Tom Green,48451,40753
+Texas,Travis,48453,54044
+Texas,Trinity,48455,36519
+Texas,Tyler,48457,33548
+Texas,Upshur,48459,42256
+Texas,Upton,48461,42940
+Texas,Uvalde,48463,32331
+Texas,Val Verde,48465,34150
+Texas,Van Zandt,48467,42271
+Texas,Victoria,48469,45859
+Texas,Walker,48471,34214
+Texas,Waller,48473,43865
+Texas,Ward,48475,40514
+Texas,Washington,48477,43791
+Texas,Webb,48479,35964
+Texas,Wharton,48481,42695
+Texas,Wheeler,48483,40603
+Texas,Wichita,48485,42999
+Texas,Wilbarger,48487,36338
+Texas,Willacy,48489,22747
+Texas,Williamson,48491,69406
+Texas,Wilson,48493,59347
+Texas,Winkler,48495,40074
+Texas,Wise,48497,55703
+Texas,Wood,48499,39480
+Texas,Yoakum,48501,48235
+Texas,Young,48503,38195
+Texas,Zapata,48505,20525
+Texas,Zavala,48507,22964
+Utah,Beaver,49001,39362
+Utah,Box Elder,49003,54670
+Utah,Cache,49005,46091
+Utah,Carbon,49007,41056
+Utah,Daggett,49009,38021
+Utah,Davis,49011,65892
+Utah,Duchesne,49013,51504
+Utah,Emery,49015,47446
+Utah,Garfield,49017,44861
+Utah,Grand,49019,37206
+Utah,Iron,49021,41707
+Utah,Juab,49023,50360
+Utah,Kane,49025,41313
+Utah,Millard,49027,42289
+Utah,Morgan,49029,70043
+Utah,Piute,49031,37000
+Utah,Rich,49033,50899
+Utah,Salt Lake,49035,56948
+Utah,San Juan,49037,36209
+Utah,Sanpete,49039,41931
+Utah,Sevier,49041,44411
+Utah,Summit,49043,83380
+Utah,Tooele,49045,60236
+Utah,Uintah,49047,57735
+Utah,Utah,49049,56752
+Utah,Wasatch,49051,62030
+Utah,Washington,49053,48728
+Utah,Wayne,49055,45040
+Utah,Weber,49057,53471
+Vermont,Addison,50001,55427
+Vermont,Bennington,50003,46265
+Vermont,Caledonia,50005,41897
+Vermont,Chittenden,50007,59634
+Vermont,Essex,50009,40046
+Vermont,Franklin,50011,52279
+Vermont,Grand Isle,50013,56202
+Vermont,Lamoille,50015,51037
+Vermont,Orange,50017,51011
+Vermont,Orleans,50019,40605
+Vermont,Rutland,50021,46153
+Vermont,Washington,50023,54227
+Vermont,Windham,50025,46465
+Vermont,Windsor,50027,51066
+Virginia,Accomack,51001,40343
+Virginia,Albemarle,51003,64306
+Virginia,Alleghany,51005,42005
+Virginia,Amelia,51007,48897
+Virginia,Amherst,51009,45947
+Virginia,Appomattox,51011,47412
+Virginia,Arlington,51013,93806
+Virginia,Augusta,51015,49364
+Virginia,Bath,51017,46250
+Virginia,Bedford,51019,54527
+Virginia,Bland,51021,42231
+Virginia,Botetourt,51023,59823
+Virginia,Brunswick,51025,36202
+Virginia,Buchanan,51027,27538
+Virginia,Buckingham,51029,38128
+Virginia,Campbell,51031,43324
+Virginia,Caroline,51033,56829
+Virginia,Carroll,51035,34794
+Virginia,Charles City,51036,49747
+Virginia,Charlotte,51037,37591
+Virginia,Chesterfield,51041,71661
+Virginia,Clarke,51043,68768
+Virginia,Craig,51045,48845
+Virginia,Culpeper,51047,64359
+Virginia,Cumberland,51049,38430
+Virginia,Dickenson,51051,28296
+Virginia,Dinwiddie,51053,51556
+Virginia,Essex,51057,46678
+Virginia,Fairfax,51059,104259
+Virginia,Fauquier,51061,82872
+Virginia,Floyd,51063,40539
+Virginia,Fluvanna,51065,62163
+Virginia,Franklin,51067,45578
+Virginia,Frederick,51069,62291
+Virginia,Giles,51071,39963
+Virginia,Gloucester,51073,56830
+Virginia,Goochland,51075,75581
+Virginia,Grayson,51077,31707
+Virginia,Greene,51079,54153
+Virginia,Greensville,51081,40917
+Virginia,Halifax,51083,34318
+Virginia,Hanover,51085,76926
+Virginia,Henrico,51087,59807
+Virginia,Henry,51089,34437
+Virginia,Highland,51091,43537
+Virginia,Isle of Wight,51093,62573
+Virginia,James City,51095,71988
+Virginia,King and Queen,51097,43766
+Virginia,King George,51099,73941
+Virginia,King William,51101,64682
+Virginia,Lancaster,51103,44485
+Virginia,Lee,51105,29889
+Virginia,Loudoun,51107,112021
+Virginia,Louisa,51109,51775
+Virginia,Lunenburg,51111,35963
+Virginia,Madison,51113,52964
+Virginia,Mathews,51115,49318
+Virginia,Mecklenburg,51117,34741
+Virginia,Middlesex,51119,50181
+Virginia,Montgomery,51121,41815
+Virginia,Nelson,51125,44326
+Virginia,New Kent,51127,69478
+Virginia,Northampton,51131,36450
+Virginia,Northumberland,51133,50522
+Virginia,Nottoway,51135,40776
+Virginia,Orange,51137,55416
+Virginia,Page,51139,42359
+Virginia,Patrick,51141,36895
+Virginia,Pittsylvania,51143,39765
+Virginia,Powhatan,51145,75118
+Virginia,Prince Edward,51147,36242
+Virginia,Prince George,51149,66049
+Virginia,Prince William,51153,88850
+Virginia,Pulaski,51155,38234
+Virginia,Rappahannock,51157,58500
+Virginia,Richmond,51159,42212
+Virginia,Roanoke,51161,57800
+Virginia,Rockbridge,51163,43311
+Virginia,Rockingham,51165,51232
+Virginia,Russell,51167,31770
+Virginia,Scott,51169,33325
+Virginia,Shenandoah,51171,50436
+Virginia,Smyth,51173,36103
+Virginia,Southampton,51175,47285
+Virginia,Spotsylvania,51177,77225
+Virginia,Stafford,51179,90586
+Virginia,Surry,51181,53320
+Virginia,Sussex,51183,37492
+Virginia,Tazewell,51185,35830
+Virginia,Warren,51187,59630
+Virginia,Washington,51191,40431
+Virginia,Westmoreland,51193,50151
+Virginia,Wise,51195,32324
+Virginia,Wythe,51197,38490
+Virginia,York,51199,79189
+Virginia,Alexandria,51510,80186
+Virginia,Bedford,51515,31796
+Virginia,Bristol,51520,31797
+Virginia,Buena Vista,51530,40913
+Virginia,Charlottesville,51540,38369
+Virginia,Chesapeake,51550,66932
+Virginia,Clifton Forge,51560,0
+Virginia,Colonial Heights,51570,49734
+Virginia,Covington,51580,35758
+Virginia,Danville,51590,29482
+Virginia,Emporia,51595,33412
+Virginia,Fairfax,51600,96232
+Virginia,Falls Church,51610,113313
+Virginia,Franklin,51620,32060
+Virginia,Fredericksburg,51630,43154
+Virginia,Galax,51640,22105
+Virginia,Hampton,51650,48122
+Virginia,Harrisonburg,51660,33587
+Virginia,Hopewell,51670,38892
+Virginia,Lexington,51678,32847
+Virginia,Lynchburg,51680,37281
+Virginia,Manassas,51683,72150
+Virginia,Manassas Park,51685,69087
+Virginia,Martinsville,51690,31729
+Virginia,Newport News,51700,48124
+Virginia,Norfolk,51710,41739
+Virginia,Norton,51720,32500
+Virginia,Petersburg,51730,35874
+Virginia,Poquoson,51735,84688
+Virginia,Portsmouth,51740,44410
+Virginia,Radford,51750,29589
+Virginia,Richmond,51760,37735
+Virginia,Roanoke,51770,35811
+Virginia,Salem,51775,47746
+Virginia,South Boston,51780,0
+Virginia,Staunton,51790,42713
+Virginia,Suffolk,51800,63657
+Virginia,Virginia Beach,51810,63370
+Virginia,Waynesboro,51820,40809
+Virginia,Williamsburg,51830,41236
+Virginia,Winchester,51840,44708
+Washington,Adams,53001,39679
+Washington,Asotin,53003,40643
+Washington,Benton,53005,55253
+Washington,Chelan,53007,47009
+Washington,Clallam,53009,44342
+Washington,Clark,53011,58095
+Washington,Columbia,53013,40774
+Washington,Cowlitz,53015,46379
+Washington,Douglas,53017,47408
+Washington,Ferry,53019,36096
+Washington,Franklin,53021,45337
+Washington,Garfield,53023,40135
+Washington,Grant,53025,42149
+Washington,Grays Harbor,53027,41618
+Washington,Island,53029,56138
+Washington,Jefferson,53031,46183
+Washington,King,53033,67246
+Washington,Kitsap,53035,59358
+Washington,Kittitas,53037,41025
+Washington,Klickitat,53039,37656
+Washington,Lewis,53041,44661
+Washington,Lincoln,53043,43665
+Washington,Mason,53045,49081
+Washington,Okanogan,53047,38299
+Washington,Pacific,53049,39045
+Washington,Pend Oreille,53051,36864
+Washington,Pierce,53053,56773
+Washington,San Juan,53055,51392
+Washington,Skagit,53057,53094
+Washington,Skamania,53059,46943
+Washington,Snohomish,53061,64780
+Washington,Spokane,53063,46207
+Washington,Stevens,53065,41859
+Washington,Thurston,53067,59453
+Washington,Wahkiakum,53069,39226
+Washington,Walla Walla,53071,44282
+Washington,Whatcom,53073,47812
+Washington,Whitman,53075,32403
+Washington,Yakima,53077,41854
+West Virginia,Barbour,54001,30875
+West Virginia,Berkeley,54003,52250
+West Virginia,Boone,54005,38828
+West Virginia,Braxton,54007,30174
+West Virginia,Brooke,54009,40537
+West Virginia,Cabell,54011,33062
+West Virginia,Calhoun,54013,27367
+West Virginia,Clay,54015,31148
+West Virginia,Doddridge,54017,30725
+West Virginia,Fayette,54019,32579
+West Virginia,Gilmer,54021,24544
+West Virginia,Grant,54023,34259
+West Virginia,Greenbrier,54025,32635
+West Virginia,Hampshire,54027,34571
+West Virginia,Hancock,54029,39280
+West Virginia,Hardy,54031,34625
+West Virginia,Harrison,54033,39395
+West Virginia,Jackson,54035,42662
+West Virginia,Jefferson,54037,63612
+West Virginia,Kanawha,54039,41478
+West Virginia,Lewis,54041,32655
+West Virginia,Lincoln,54043,29291
+West Virginia,Logan,54045,34214
+West Virginia,McDowell,54047,21360
+West Virginia,Marion,54049,35209
+West Virginia,Marshall,54051,34330
+West Virginia,Mason,54053,34737
+West Virginia,Mercer,54055,31478
+West Virginia,Mineral,54057,37681
+West Virginia,Mingo,54059,29804
+West Virginia,Monongalia,54061,37544
+West Virginia,Monroe,54063,38706
+West Virginia,Morgan,54065,39040
+West Virginia,Nicholas,54067,38064
+West Virginia,Ohio,54069,37862
+West Virginia,Pendleton,54071,35705
+West Virginia,Pleasants,54073,40093
+West Virginia,Pocahontas,54075,32237
+West Virginia,Preston,54077,37142
+West Virginia,Putnam,54079,51186
+West Virginia,Raleigh,54081,38023
+West Virginia,Randolph,54083,34103
+West Virginia,Ritchie,54085,35211
+West Virginia,Roane,54087,27155
+West Virginia,Summers,54089,26859
+West Virginia,Taylor,54091,37639
+West Virginia,Tucker,54093,31306
+West Virginia,Tyler,54095,33579
+West Virginia,Upshur,54097,34275
+West Virginia,Wayne,54099,34814
+West Virginia,Webster,54101,28691
+West Virginia,Wetzel,54103,36021
+West Virginia,Wirt,54105,33668
+West Virginia,Wood,54107,39530
+West Virginia,Wyoming,54109,32141
+Wisconsin,Adams,55001,38726
+Wisconsin,Ashland,55003,37245
+Wisconsin,Barron,55005,42928
+Wisconsin,Bayfield,55007,43210
+Wisconsin,Brown,55009,52535
+Wisconsin,Buffalo,55011,44950
+Wisconsin,Burnett,55013,40870
+Wisconsin,Calumet,55015,61655
+Wisconsin,Chippewa,55017,49096
+Wisconsin,Clark,55019,42876
+Wisconsin,Columbia,55021,55155
+Wisconsin,Crawford,55023,41040
+Wisconsin,Dane,55025,59546
+Wisconsin,Dodge,55027,52658
+Wisconsin,Door,55029,46581
+Wisconsin,Douglas,55031,43026
+Wisconsin,Dunn,55033,48253
+Wisconsin,Eau Claire,55035,45178
+Wisconsin,Florence,55037,38250
+Wisconsin,Fond du Lac,55039,51768
+Wisconsin,Forest,55041,36425
+Wisconsin,Grant,55043,43111
+Wisconsin,Green,55045,52082
+Wisconsin,Green Lake,55047,48230
+Wisconsin,Iowa,55049,54298
+Wisconsin,Iron,55051,34401
+Wisconsin,Jackson,55053,45484
+Wisconsin,Jefferson,55055,55379
+Wisconsin,Juneau,55057,45746
+Wisconsin,Kenosha,55059,55055
+Wisconsin,Kewaunee,55061,54711
+Wisconsin,La Crosse,55063,48543
+Wisconsin,Lafayette,55065,47306
+Wisconsin,Langlade,55067,40140
+Wisconsin,Lincoln,55069,46770
+Wisconsin,Manitowoc,55071,49026
+Wisconsin,Marathon,55073,53150
+Wisconsin,Marinette,55075,40553
+Wisconsin,Marquette,55077,43195
+Wisconsin,Menominee,55078,31372
+Wisconsin,Milwaukee,55079,43848
+Wisconsin,Monroe,55081,47243
+Wisconsin,Oconto,55083,48372
+Wisconsin,Oneida,55085,44977
+Wisconsin,Outagamie,55087,55763
+Wisconsin,Ozaukee,55089,74237
+Wisconsin,Pepin,55091,48991
+Wisconsin,Pierce,55093,59421
+Wisconsin,Polk,55095,50444
+Wisconsin,Portage,55097,50978
+Wisconsin,Price,55099,40542
+Wisconsin,Racine,55101,54203
+Wisconsin,Richland,55103,43422
+Wisconsin,Rock,55105,49894
+Wisconsin,Rusk,55107,37724
+Wisconsin,St. Croix,55109,67748
+Wisconsin,Sauk,55111,49630
+Wisconsin,Sawyer,55113,37583
+Wisconsin,Shawano,55115,45376
+Wisconsin,Sheboygan,55117,52848
+Wisconsin,Taylor,55119,44098
+Wisconsin,Trempealeau,55121,46409
+Wisconsin,Vernon,55123,41545
+Wisconsin,Vilas,55125,42318
+Wisconsin,Walworth,55127,53910
+Wisconsin,Washburn,55129,41518
+Wisconsin,Washington,55131,64694
+Wisconsin,Waukesha,55133,74466
+Wisconsin,Waupaca,55135,47374
+Wisconsin,Waushara,55137,43137
+Wisconsin,Winnebago,55139,50554
+Wisconsin,Wood,55141,47594
+Wyoming,Albany,56001,40116
+Wyoming,Big Horn,56003,44612
+Wyoming,Campbell,56005,74757
+Wyoming,Carbon,56007,50963
+Wyoming,Converse,56009,55240
+Wyoming,Crook,56011,48591
+Wyoming,Fremont,56013,43872
+Wyoming,Goshen,56015,39665
+Wyoming,Hot Springs,56017,45714
+Wyoming,Johnson,56019,42849
+Wyoming,Laramie,56021,51465
+Wyoming,Lincoln,56023,57446
+Wyoming,Natrona,56025,50382
+Wyoming,Niobrara,56027,43580
+Wyoming,Park,56029,43851
+Wyoming,Platte,56031,38954
+Wyoming,Sheridan,56033,45861
+Wyoming,Sublette,56035,74224
+Wyoming,Sweetwater,56037,67210
+Wyoming,Teton,56039,67073
+Wyoming,Uinta,56041,56407
+Wyoming,Washakie,56043,47778
+Wyoming,Weston,56045,53267
