@@ -49,4 +49,3 @@ US-Washington
 US-West_Virginia
 US-Wisconsin
 US-Wyoming
-US
