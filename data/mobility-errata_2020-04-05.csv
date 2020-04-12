@@ -1,0 +1,121 @@
+state,county,seg,value,headline,abs_delta
+Alabama,Conecuh,Workplace,-44.184,-26.0,18.183999999999997
+Alabama,Cullman,Parks,63.49100000000001,65.0,1.5089999999999932
+Alabama,DeKalb,Parks,9.439,-4.0,13.439
+Alabama,DeKalb,Transit stations,-28.572,-49.0,20.428
+Alabama,Etowah,Parks,19.227,-23.0,42.227000000000004
+Alabama,Limestone,Parks,8.106,32.0,23.894
+Alabama,Macon,Transit stations,-38.966,-54.0,15.033999999999999
+Alabama,Marshall,Parks,126.804,63.0,63.804
+Arkansas,Conway,Workplace,-21.311,-23.0,1.689
+Arkansas,Lawrence,Workplace,-33.039,-32.0,1.0390000000000015
+Colorado,Grand,Transit stations,-63.637,-43.0,20.637
+Colorado,Kit Carson,Workplace,-27.692,-20.0,7.692
+Colorado,La Plata,Transit stations,-63.82899999999999,-66.0,2.1710000000000065
+Colorado,Prowers,Workplace,-31.897,-26.0,5.8969999999999985
+Connecticut,Litchfield,Parks,-11.429,86.0,97.429
+Connecticut,Middlesex,Parks,-14.29,85.0,99.28999999999999
+Connecticut,Tolland,Parks,0.0,96.0,96.0
+Georgia,Cook,Workplace,-66.669,-28.0,38.669
+Georgia,Dade,Workplace,-32.181,-34.0,1.8190000000000026
+Georgia,Dawson,Parks,17.305999999999994,6.0,11.305999999999994
+Georgia,McDuffie,Workplace,-43.988,-26.0,17.988
+Georgia,Rabun,Parks,37.094,11.0,26.094
+Georgia,Union,Parks,22.435,-10.0,32.435
+Georgia,Wayne,Grocery & pharmacy,-47.858,-15.0,32.858
+Georgia,Wilkes,Grocery & pharmacy,-43.113,-11.0,32.113
+Georgia,Worth,Grocery & pharmacy,-42.494,-20.0,22.494
+Indiana,Clark,Parks,118.571,60.0,58.571
+Indiana,Crawford,Retail & recreation,-27.273000000000003,-47.0,19.726999999999997
+Indiana,Monroe,Parks,38.691,35.0,3.6910000000000025
+Indiana,Tippecanoe,Parks,4.9060000000000015,82.0,77.094
+Indiana,Vanderburgh,Parks,-16.329,29.0,45.329
+Indiana,White,Transit stations,-31.966,-34.0,2.033999999999999
+Kansas,Dickinson,Workplace,-20.931,-29.0,8.068999999999999
+Kansas,Thomas,Transit stations,7.841,-7.0,14.841000000000001
+Kentucky,Carter,Workplace,-22.222,-13.0,9.222000000000001
+Kentucky,Daviess,Parks,-8.693,34.0,42.693
+Kentucky,Kenton,Parks,85.92299999999999,49.0,36.92299999999999
+Louisiana,De Soto Parish,Workplace,-39.743,-31.0,8.743000000000002
+Massachusetts,Berkshire,Parks,-15.519,60.0,75.519
+Massachusetts,Hampshire,Parks,-10.003,78.0,88.003
+Minnesota,Nobles,Workplace,-42.868,-32.0,10.868000000000002
+Mississippi,Scott,Workplace,-32.384,-29.0,3.3840000000000003
+Mississippi,Sunflower,Workplace,-2.257,-17.0,14.743
+Mississippi,Tate,Workplace,-1.881,-34.0,32.119
+Mississippi,Union,Workplace,-26.19,-30.0,3.8099999999999987
+Missouri,Crawford,Workplace,-9.089,-22.0,12.911
+Missouri,Mississippi,Workplace,-32.257,-24.0,8.256999999999998
+Missouri,Montgomery,Grocery & pharmacy,20.017,2.0,18.017
+Missouri,New Madrid,Workplace,-27.012,-19.0,8.012
+Missouri,Ralls,Transit stations,-25.867,-23.0,2.867000000000001
+Nebraska,Colfax,Grocery & pharmacy,-11.112,-8.0,3.112
+Nebraska,Keith,Transit stations,-24.238000000000003,7.0,31.238000000000003
+Nebraska,York,Workplace,-22.159,-31.0,8.841000000000001
+Nevada,Mineral,Transit stations,-24.998,-20.0,4.998000000000001
+Nevada,White Pine,Workplace,-10.642,-19.0,8.358
+New Hampshire,Strafford,Parks,-23.912,47.0,70.912
+New Jersey,Warren,Parks,-5.1720000000000015,51.0,56.172000000000004
+New Mexico,Hidalgo,Retail & recreation,-58.143,-54.0,4.143000000000001
+New Mexico,Luna,Workplace,-25.874,-22.0,3.8739999999999988
+New York,Greene,Parks,-49.023,4.0,53.023
+New York,Oneida,Parks,14.281,91.0,76.719
+New York,St. Lawrence,Parks,-22.435,0.0,22.435
+New York,Ulster,Parks,-2.144,79.0,81.144
+New York,Warren,Parks,-24.557,33.0,57.557
+North Carolina,Alamance,Parks,45.0,39.0,6.0
+North Carolina,Catawba,Parks,-6.819,39.0,45.819
+North Carolina,Cleveland,Parks,8.001,16.0,7.9990000000000006
+North Carolina,Davidson,Parks,60.322,81.0,20.677999999999997
+North Carolina,Haywood,Parks,29.307,15.0,14.306999999999999
+North Carolina,Jackson,Parks,16.668,9.0,7.667999999999999
+North Carolina,Johnston,Parks,21.045,30.0,8.954999999999998
+North Carolina,Macon,Parks,-7.41,-15.0,7.59
+North Carolina,Moore,Parks,21.1,12.0,9.100000000000001
+North Carolina,Stokes,Parks,-24.998,-22.0,2.998000000000001
+North Carolina,Transylvania,Parks,13.574000000000002,-8.0,21.574
+Ohio,Clermont,Parks,34.329,54.0,19.671
+Ohio,Delaware,Parks,60.658,20.0,40.658
+Ohio,Greene,Parks,135.356,20.0,115.356
+Ohio,Mahoning,Parks,35.584,116.0,80.416
+Ohio,Miami,Parks,4.3660000000000005,-4.0,8.366
+Ohio,Warren,Parks,47.262,83.0,35.738
+Oklahoma,Cotton,Workplace,-48.934,-35.0,13.933999999999997
+Oklahoma,Noble,Transit stations,-50.063,-62.0,11.936999999999998
+Oklahoma,Okfuskee,Workplace,-26.687,-31.0,4.312999999999999
+Oklahoma,Rogers,Parks,-10.008,16.0,26.008
+Oklahoma,Seminole,Workplace,-35.125,-27.0,8.125
+Oregon,Polk,Parks,-5.36,41.0,46.36
+South Carolina,Cherokee,Parks,-6.523,-13.0,6.477
+South Carolina,Clarendon,Workplace,-32.556999999999995,-39.0,6.443000000000005
+South Carolina,Fairfield,Workplace,-35.48699999999999,-42.0,6.513000000000012
+South Dakota,Lake,Grocery & pharmacy,0.0,-6.0,6.0
+South Dakota,Roberts,Transit stations,-44.441,-46.0,1.5589999999999975
+Tennessee,Anderson,Parks,7.018,27.0,19.982
+Tennessee,McMinn,Transit stations,-25.592,-42.0,16.408
+Tennessee,Sullivan,Parks,72.437,101.0,28.563000000000002
+Texas,Bandera,Parks,-60.938,-49.0,11.938000000000002
+Texas,Blanco,Parks,-49.997,-56.0,6.003
+Texas,Callahan,Workplace,-28.071,-20.0,8.071000000000002
+Texas,Childress,Workplace,-14.82,-27.0,12.18
+Texas,Deaf Smith,Workplace,-29.159,-20.0,9.158999999999999
+Texas,Gillespie,Parks,-60.034,-68.0,7.966000000000001
+Texas,Hartley,Grocery & pharmacy,-6.816,6.0,12.815999999999999
+Texas,Kleberg,Parks,-55.538,-70.0,14.462000000000003
+Texas,McMullen,Transit stations,-37.162,-58.0,20.838
+Texas,Medina,Parks,-54.028,-41.0,13.027999999999999
+Texas,Reeves,Grocery & pharmacy,-38.555,-16.0,22.555
+Texas,Robertson,Grocery & pharmacy,-51.52,-25.0,26.520000000000003
+Texas,Runnels,Grocery & pharmacy,-24.67,-17.0,7.670000000000002
+Texas,Sabine,Grocery & pharmacy,-34.474000000000004,-2.0,32.474000000000004
+Texas,Shelby,Grocery & pharmacy,-45.682,-19.0,26.682000000000002
+Texas,Sutton,Grocery & pharmacy,-65.76,-27.0,38.760000000000005
+Texas,Terry,Grocery & pharmacy,-29.685,-27.0,2.6849999999999987
+Utah,Sevier,Workplace,-4.415,-33.0,28.585
+Vermont,Lamoille,Transit stations,-59.379,-40.0,19.378999999999998
+Virginia,Albemarle,Parks,35.821,21.0,14.820999999999998
+Virginia,Bland,Transit stations,-26.832,-30.0,3.1679999999999993
+Virginia,Emporia,Workplace,-31.58,-16.0,15.579999999999998
+Virginia,Greensville,Transit stations,-27.918000000000006,-44.0,16.081999999999994
+Virginia,Wythe,Grocery & pharmacy,-42.896,-16.0,26.896
+West Virginia,Jackson,Workplace,-20.454,-29.0,8.546
