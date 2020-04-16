@@ -1,0 +1,307 @@
+state,county,seg,conf,value
+Alabama,Alabama,Grocery & pharmacy,1,-18.0
+Alabama,Alabama,Parks,1,-1.0
+Alabama,Alabama,Residential,1,12.0
+Alabama,Alabama,Retail & recreation,1,-50.0
+Alabama,Alabama,Transit stations,1,-40.0
+Alabama,Alabama,Workplaces,1,-36.0
+Alaska,Alaska,Grocery & pharmacy,1,-17.0
+Alaska,Alaska,Parks,1,29.0
+Alaska,Alaska,Residential,1,9.0
+Alaska,Alaska,Retail & recreation,1,-41.0
+Alaska,Alaska,Transit stations,1,-52.0
+Alaska,Alaska,Workplaces,1,-32.0
+Arizona,Arizona,Grocery & pharmacy,1,-19.0
+Arizona,Arizona,Parks,1,-23.0
+Arizona,Arizona,Residential,1,11.0
+Arizona,Arizona,Retail & recreation,1,-43.0
+Arizona,Arizona,Transit stations,1,-47.0
+Arizona,Arizona,Workplaces,1,-37.0
+Arkansas,Arkansas,Grocery & pharmacy,1,-3.0
+Arkansas,Arkansas,Parks,1,25.0
+Arkansas,Arkansas,Residential,1,8.0
+Arkansas,Arkansas,Retail & recreation,1,-36.0
+Arkansas,Arkansas,Transit stations,1,-33.0
+Arkansas,Arkansas,Workplaces,1,-29.0
+California,California,Grocery & pharmacy,1,-27.0
+California,California,Parks,1,-61.0
+California,California,Residential,1,16.0
+California,California,Retail & recreation,1,-53.0
+California,California,Transit stations,1,-59.0
+California,California,Workplaces,1,-42.0
+Colorado,Colorado,Grocery & pharmacy,1,-21.0
+Colorado,Colorado,Parks,1,10.0
+Colorado,Colorado,Residential,1,12.0
+Colorado,Colorado,Retail & recreation,1,-47.0
+Colorado,Colorado,Transit stations,1,-58.0
+Colorado,Colorado,Workplaces,1,-41.0
+Connecticut,Connecticut,Grocery & pharmacy,1,-26.0
+Connecticut,Connecticut,Parks,1,23.0
+Connecticut,Connecticut,Residential,1,13.0
+Connecticut,Connecticut,Retail & recreation,1,-50.0
+Connecticut,Connecticut,Transit stations,1,-61.0
+Connecticut,Connecticut,Workplaces,1,-38.0
+Delaware,Delaware,Grocery & pharmacy,1,-27.0
+Delaware,Delaware,Parks,1,37.0
+Delaware,Delaware,Residential,1,12.0
+Delaware,Delaware,Retail & recreation,1,-47.0
+Delaware,Delaware,Transit stations,1,-56.0
+Delaware,Delaware,Workplaces,1,-39.0
+District of Columbia,District of Columbia,Grocery & pharmacy,1,-33.0
+District of Columbia,District of Columbia,Parks,1,-50.0
+District of Columbia,District of Columbia,Residential,1,15.0
+District of Columbia,District of Columbia,Retail & recreation,1,-66.0
+District of Columbia,District of Columbia,Transit stations,1,-71.0
+District of Columbia,District of Columbia,Workplaces,1,-49.0
+Florida,Florida,Grocery & pharmacy,1,-33.0
+Florida,Florida,Parks,1,-70.0
+Florida,Florida,Residential,1,15.0
+Florida,Florida,Retail & recreation,1,-57.0
+Florida,Florida,Transit stations,1,-70.0
+Florida,Florida,Workplaces,1,-45.0
+Georgia,Georgia,Grocery & pharmacy,1,-22.0
+Georgia,Georgia,Parks,1,-13.0
+Georgia,Georgia,Residential,1,13.0
+Georgia,Georgia,Retail & recreation,1,-50.0
+Georgia,Georgia,Transit stations,1,-59.0
+Georgia,Georgia,Workplaces,1,-42.0
+Hawaii,Hawaii,Grocery & pharmacy,1,-26.0
+Hawaii,Hawaii,Parks,1,-67.0
+Hawaii,Hawaii,Residential,1,16.0
+Hawaii,Hawaii,Retail & recreation,1,-55.0
+Hawaii,Hawaii,Transit stations,1,-76.0
+Hawaii,Hawaii,Workplaces,1,-46.0
+Idaho,Idaho,Grocery & pharmacy,1,-14.0
+Idaho,Idaho,Parks,1,30.0
+Idaho,Idaho,Residential,1,10.0
+Idaho,Idaho,Retail & recreation,1,-40.0
+Idaho,Idaho,Transit stations,1,-36.0
+Idaho,Idaho,Workplaces,1,-39.0
+Illinois,Illinois,Grocery & pharmacy,1,-16.0
+Illinois,Illinois,Parks,1,24.0
+Illinois,Illinois,Residential,1,12.0
+Illinois,Illinois,Retail & recreation,1,-50.0
+Illinois,Illinois,Transit stations,1,-52.0
+Illinois,Illinois,Workplaces,1,-39.0
+Indiana,Indiana,Grocery & pharmacy,1,-17.0
+Indiana,Indiana,Parks,1,54.0
+Indiana,Indiana,Residential,1,10.0
+Indiana,Indiana,Retail & recreation,1,-45.0
+Indiana,Indiana,Transit stations,1,-35.0
+Indiana,Indiana,Workplaces,1,-37.0
+Iowa,Iowa,Grocery & pharmacy,1,1.0
+Iowa,Iowa,Parks,1,134.0
+Iowa,Iowa,Residential,1,8.0
+Iowa,Iowa,Retail & recreation,1,-39.0
+Iowa,Iowa,Transit stations,1,-28.0
+Iowa,Iowa,Workplaces,1,-29.0
+Kansas,Kansas,Grocery & pharmacy,1,-18.0
+Kansas,Kansas,Parks,1,25.0
+Kansas,Kansas,Residential,1,10.0
+Kansas,Kansas,Retail & recreation,1,-43.0
+Kansas,Kansas,Transit stations,1,-30.0
+Kansas,Kansas,Workplaces,1,-34.0
+Kentucky,Kentucky,Grocery & pharmacy,1,-5.0
+Kentucky,Kentucky,Parks,1,57.0
+Kentucky,Kentucky,Residential,1,9.0
+Kentucky,Kentucky,Retail & recreation,1,-39.0
+Kentucky,Kentucky,Transit stations,1,-37.0
+Kentucky,Kentucky,Workplaces,1,-36.0
+Louisiana,Louisiana,Grocery & pharmacy,1,-10.0
+Louisiana,Louisiana,Parks,1,-19.0
+Louisiana,Louisiana,Residential,1,12.0
+Louisiana,Louisiana,Retail & recreation,1,-46.0
+Louisiana,Louisiana,Transit stations,1,-54.0
+Louisiana,Louisiana,Workplaces,1,-37.0
+Maine,Maine,Grocery & pharmacy,1,-23.0
+Maine,Maine,Parks,1,20.0
+Maine,Maine,Residential,1,10.0
+Maine,Maine,Retail & recreation,1,-50.0
+Maine,Maine,Transit stations,1,-59.0
+Maine,Maine,Workplaces,1,-34.0
+Maryland,Maryland,Grocery & pharmacy,1,-25.0
+Maryland,Maryland,Parks,1,35.0
+Maryland,Maryland,Residential,1,14.0
+Maryland,Maryland,Retail & recreation,1,-47.0
+Maryland,Maryland,Transit stations,1,-53.0
+Maryland,Maryland,Workplaces,1,-42.0
+Massachusetts,Massachusetts,Grocery & pharmacy,1,-27.0
+Massachusetts,Massachusetts,Parks,1,25.0
+Massachusetts,Massachusetts,Residential,1,14.0
+Massachusetts,Massachusetts,Retail & recreation,1,-53.0
+Massachusetts,Massachusetts,Transit stations,1,-68.0
+Massachusetts,Massachusetts,Workplaces,1,-42.0
+Michigan,Michigan,Grocery & pharmacy,1,-24.0
+Michigan,Michigan,Parks,1,92.0
+Michigan,Michigan,Residential,1,11.0
+Michigan,Michigan,Retail & recreation,1,-55.0
+Michigan,Michigan,Transit stations,1,-53.0
+Michigan,Michigan,Workplaces,1,-44.0
+Minnesota,Minnesota,Grocery & pharmacy,1,-18.0
+Minnesota,Minnesota,Parks,1,98.0
+Minnesota,Minnesota,Residential,1,12.0
+Minnesota,Minnesota,Retail & recreation,1,-46.0
+Minnesota,Minnesota,Transit stations,1,-58.0
+Minnesota,Minnesota,Workplaces,1,-37.0
+Mississippi,Mississippi,Grocery & pharmacy,1,-14.0
+Mississippi,Mississippi,Parks,1,-8.0
+Mississippi,Mississippi,Residential,1,11.0
+Mississippi,Mississippi,Retail & recreation,1,-43.0
+Mississippi,Mississippi,Transit stations,1,-37.0
+Mississippi,Mississippi,Workplaces,1,-35.0
+Missouri,Missouri,Grocery & pharmacy,1,-6.0
+Missouri,Missouri,Parks,1,5.0
+Missouri,Missouri,Residential,1,10.0
+Missouri,Missouri,Retail & recreation,1,-43.0
+Missouri,Missouri,Transit stations,1,-40.0
+Missouri,Missouri,Workplaces,1,-34.0
+Montana,Montana,Grocery & pharmacy,1,-17.0
+Montana,Montana,Parks,1,23.0
+Montana,Montana,Residential,1,9.0
+Montana,Montana,Retail & recreation,1,-45.0
+Montana,Montana,Transit stations,1,-40.0
+Montana,Montana,Workplaces,1,-36.0
+Nebraska,Nebraska,Grocery & pharmacy,1,-8.0
+Nebraska,Nebraska,Parks,1,56.0
+Nebraska,Nebraska,Residential,1,9.0
+Nebraska,Nebraska,Retail & recreation,1,-40.0
+Nebraska,Nebraska,Transit stations,1,-25.0
+Nebraska,Nebraska,Workplaces,1,-27.0
+Nevada,Nevada,Grocery & pharmacy,1,-22.0
+Nevada,Nevada,Parks,1,-46.0
+Nevada,Nevada,Residential,1,15.0
+Nevada,Nevada,Retail & recreation,1,-49.0
+Nevada,Nevada,Transit stations,1,-64.0
+Nevada,Nevada,Workplaces,1,-55.0
+New Hampshire,New Hampshire,Grocery & pharmacy,1,-26.0
+New Hampshire,New Hampshire,Parks,1,15.0
+New Hampshire,New Hampshire,Residential,1,11.0
+New Hampshire,New Hampshire,Retail & recreation,1,-48.0
+New Hampshire,New Hampshire,Transit stations,1,-57.0
+New Hampshire,New Hampshire,Workplaces,1,-37.0
+New Jersey,New Jersey,Grocery & pharmacy,1,-11.0
+New Jersey,New Jersey,Parks,1,26.0
+New Jersey,New Jersey,Residential,1,16.0
+New Jersey,New Jersey,Retail & recreation,1,-66.0
+New Jersey,New Jersey,Transit stations,1,-67.0
+New Jersey,New Jersey,Workplaces,1,-45.0
+New Mexico,New Mexico,Grocery & pharmacy,1,-11.0
+New Mexico,New Mexico,Parks,1,-7.0
+New Mexico,New Mexico,Residential,1,10.0
+New Mexico,New Mexico,Retail & recreation,1,-41.0
+New Mexico,New Mexico,Transit stations,1,-33.0
+New Mexico,New Mexico,Workplaces,1,-35.0
+New York,New York,Grocery & pharmacy,1,-28.0
+New York,New York,Parks,1,-11.0
+New York,New York,Residential,1,15.0
+New York,New York,Retail & recreation,1,-59.0
+New York,New York,Transit stations,1,-68.0
+New York,New York,Workplaces,1,-47.0
+North Carolina,North Carolina,Grocery & pharmacy,1,-14.0
+North Carolina,North Carolina,Parks,1,5.0
+North Carolina,North Carolina,Residential,1,11.0
+North Carolina,North Carolina,Retail & recreation,1,-43.0
+North Carolina,North Carolina,Transit stations,1,-55.0
+North Carolina,North Carolina,Workplaces,1,-38.0
+North Dakota,North Dakota,Grocery & pharmacy,1,-15.0
+North Dakota,North Dakota,Parks,1,-2.0
+North Dakota,North Dakota,Residential,1,11.0
+North Dakota,North Dakota,Retail & recreation,1,-50.0
+North Dakota,North Dakota,Transit stations,1,-44.0
+North Dakota,North Dakota,Workplaces,1,-28.0
+Ohio,Ohio,Grocery & pharmacy,1,-18.0
+Ohio,Ohio,Parks,1,37.0
+Ohio,Ohio,Residential,1,11.0
+Ohio,Ohio,Retail & recreation,1,-46.0
+Ohio,Ohio,Transit stations,1,-39.0
+Ohio,Ohio,Workplaces,1,-37.0
+Oklahoma,Oklahoma,Grocery & pharmacy,1,-8.0
+Oklahoma,Oklahoma,Parks,1,-3.0
+Oklahoma,Oklahoma,Residential,1,10.0
+Oklahoma,Oklahoma,Retail & recreation,1,-41.0
+Oklahoma,Oklahoma,Transit stations,1,-30.0
+Oklahoma,Oklahoma,Workplaces,1,-35.0
+Oregon,Oregon,Grocery & pharmacy,1,-18.0
+Oregon,Oregon,Parks,1,-1.0
+Oregon,Oregon,Residential,1,11.0
+Oregon,Oregon,Retail & recreation,1,-46.0
+Oregon,Oregon,Transit stations,1,-44.0
+Oregon,Oregon,Workplaces,1,-39.0
+Pennsylvania,Pennsylvania,Grocery & pharmacy,1,-24.0
+Pennsylvania,Pennsylvania,Parks,1,52.0
+Pennsylvania,Pennsylvania,Residential,1,12.0
+Pennsylvania,Pennsylvania,Retail & recreation,1,-50.0
+Pennsylvania,Pennsylvania,Transit stations,1,-51.0
+Pennsylvania,Pennsylvania,Workplaces,1,-39.0
+Rhode Island,Rhode Island,Grocery & pharmacy,1,-25.0
+Rhode Island,Rhode Island,Parks,1,4.0
+Rhode Island,Rhode Island,Residential,1,13.0
+Rhode Island,Rhode Island,Retail & recreation,1,-50.0
+Rhode Island,Rhode Island,Transit stations,1,-59.0
+Rhode Island,Rhode Island,Workplaces,1,-37.0
+South Carolina,South Carolina,Grocery & pharmacy,1,-11.0
+South Carolina,South Carolina,Parks,1,-24.0
+South Carolina,South Carolina,Residential,1,10.0
+South Carolina,South Carolina,Retail & recreation,1,-42.0
+South Carolina,South Carolina,Transit stations,1,-41.0
+South Carolina,South Carolina,Workplaces,1,-38.0
+South Dakota,South Dakota,Grocery & pharmacy,1,-3.0
+South Dakota,South Dakota,Parks,1,81.0
+South Dakota,South Dakota,Residential,1,9.0
+South Dakota,South Dakota,Retail & recreation,1,-38.0
+South Dakota,South Dakota,Transit stations,1,-36.0
+South Dakota,South Dakota,Workplaces,1,-29.0
+Tennessee,Tennessee,Grocery & pharmacy,1,-9.0
+Tennessee,Tennessee,Parks,1,2.0
+Tennessee,Tennessee,Residential,1,10.0
+Tennessee,Tennessee,Retail & recreation,1,-43.0
+Tennessee,Tennessee,Transit stations,1,-42.0
+Tennessee,Tennessee,Workplaces,1,-38.0
+Texas,Texas,Grocery & pharmacy,1,-23.0
+Texas,Texas,Parks,1,-47.0
+Texas,Texas,Residential,1,14.0
+Texas,Texas,Retail & recreation,1,-48.0
+Texas,Texas,Transit stations,1,-53.0
+Texas,Texas,Workplaces,1,-39.0
+Utah,Utah,Grocery & pharmacy,1,-13.0
+Utah,Utah,Parks,1,16.0
+Utah,Utah,Residential,1,10.0
+Utah,Utah,Retail & recreation,1,-42.0
+Utah,Utah,Transit stations,1,-49.0
+Utah,Utah,Workplaces,1,-43.0
+Vermont,Vermont,Grocery & pharmacy,1,-34.0
+Vermont,Vermont,Parks,1,-1.0
+Vermont,Vermont,Residential,1,11.0
+Vermont,Vermont,Retail & recreation,1,-58.0
+Vermont,Vermont,Transit stations,1,-69.0
+Vermont,Vermont,Workplaces,1,-42.0
+Virginia,Virginia,Grocery & pharmacy,1,-18.0
+Virginia,Virginia,Parks,1,21.0
+Virginia,Virginia,Residential,1,12.0
+Virginia,Virginia,Retail & recreation,1,-44.0
+Virginia,Virginia,Transit stations,1,-56.0
+Virginia,Virginia,Workplaces,1,-39.0
+Washington,Washington,Grocery & pharmacy,1,-21.0
+Washington,Washington,Parks,1,-11.0
+Washington,Washington,Residential,1,12.0
+Washington,Washington,Retail & recreation,1,-46.0
+Washington,Washington,Transit stations,1,-56.0
+Washington,Washington,Workplaces,1,-42.0
+West Virginia,West Virginia,Grocery & pharmacy,1,-8.0
+West Virginia,West Virginia,Parks,1,28.0
+West Virginia,West Virginia,Residential,1,8.0
+West Virginia,West Virginia,Retail & recreation,1,-40.0
+West Virginia,West Virginia,Transit stations,1,-36.0
+West Virginia,West Virginia,Workplaces,1,-33.0
+Wisconsin,Wisconsin,Grocery & pharmacy,1,-18.0
+Wisconsin,Wisconsin,Parks,1,124.0
+Wisconsin,Wisconsin,Residential,1,10.0
+Wisconsin,Wisconsin,Retail & recreation,1,-47.0
+Wisconsin,Wisconsin,Transit stations,1,-40.0
+Wisconsin,Wisconsin,Workplaces,1,-33.0
+Wyoming,Wyoming,Grocery & pharmacy,1,-11.0
+Wyoming,Wyoming,Parks,1,22.0
+Wyoming,Wyoming,Residential,1,9.0
+Wyoming,Wyoming,Retail & recreation,1,-39.0
+Wyoming,Wyoming,Transit stations,1,-21.0
+Wyoming,Wyoming,Workplaces,1,-31.0
